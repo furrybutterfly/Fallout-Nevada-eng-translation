@@ -638,7 +638,7 @@
 {11010}{}{the channels could also be tapped here.}
 {11011}{}{}
 {11012}{}{Among the documents you suddenly discover}
-{11013}{}{surveillance reports for Vault 8:}
+{11013}{}{surveillance reports on Vault 8:}
 {11014}{}{external and internal communications records,}
 {11015}{}{computer systems data interception, etc.}
 {11016}{}{The Vault has been under the close supervision of the military -}
