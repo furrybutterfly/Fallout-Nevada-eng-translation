@@ -807,7 +807,7 @@
 {41400}{}{Key to the cellar}
 {41401}{}{Standard key from the door lock at New Reno station.}
 {41500}{}{Gecko egg}
-{41501}{}{It could provide in the future a cute and funny animal. But instead goes to feed someone rich.}
+{41501}{}{It could provide a cute and funny animal in the future. But instead goes to feed someone rich.}
 {41600}{}{Toll from Stryker}
 {41601}{}{A metal diplomat case coated with brahmin skin. Intended for Big Louie. The contents of case are unknown.}
 {41700}{}{Laboratory helmet}
@@ -866,7 +866,7 @@
 {44400}{}{"Saboteur's case"}
 {44401}{}{Popular essays by the old warrior named Maddox, a veteran of subversive and reconnaissance operations. The author reveals the methods of conducting sabotage operations, talks about traps and devices of mass destruction.}
 {44500}{}{IOU}
-{44501}{}{Receipt for card debts to the casino "Eldorado".}
+{44501}{}{Receipt for card debts to the "Eldorado" casino.}
 {44600}{}{Memory eraser}
 {44601}{}{This technology allows you to erase a certain memory of short duration and replace it with another, illusory. So from the enemy you can make a friend. But if it does not succeed, then such jokes will not be forgiven.}
 {44700}{}{Contract for the purchase of slaves}
