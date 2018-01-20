@@ -1,0 +1,1300 @@
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used in PIPBOY.C
+#
+# (These MUST match "text message" enumeration on the top of PIPBOY.C)
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+#
+# Special holiday dates
+#
+{100}{}{Happy New Year's Day!}      # New years
+{101}{}{Happy Valentine's Day!}     # April fools
+{102}{}{Happy All Fool's Day!}      # April fools
+{103}{}{Happy Ship Day!}            # Shipping day!
+{104}{}{Happy Independence Day!}    # Independence day
+{105}{}{Happy Halloween!}           # Halloween
+{106}{}{Happy Thanksgiving Day!}    # Thanksgiving
+{107}{}{Merry Christmas!}           # X-mas
+
+#
+# System messages
+#
+{200}{}{MORE}
+{201}{}{BACK}
+{202}{}{STATUS}
+{203}{}{No current tasks.}
+{204}{}{CLUES}  # clues gone
+{205}{}{AUTOMAPS}
+{206}{}{VIDEO ARCHIVES}
+{207}{}{DATA}
+{208}{}{}
+{209}{}{}
+{210}{}{Status}
+{211}{}{DATA}
+{212}{}{of}
+{213}{}{Page}
+{214}{}{DONE}
+{215}{}{You cannot rest at this location!}
+
+#
+# Alarm clock
+#
+{300}{}{ALARM CLOCK}
+{301}{}{Hit Points}
+{302}{}{Rest for ten minutes}
+{303}{}{Rest for thirty minutes}
+{304}{}{Rest for an hour}
+{305}{}{Rest for two hours}
+{306}{}{Rest for three hours}
+{307}{}{Rest for four hours}
+{308}{}{Rest for five hours}
+{309}{}{Rest for six hours}
+{310}{}{Rest until morning (0800)}
+{311}{}{Rest until noon (1200)}
+{312}{}{Rest until evening (1800)}
+{313}{}{Rest until midnight (0000)}
+{314}{}{Rest until healed}
+{315}{}{Rest until party is healed}
+
+#
+# Holodisk titles
+#
+{400}{}{Warehouse assignment}
+{401}{}{Provisional report}
+{402}{}{Item list}
+{403}{}{-empty-}
+{404}{}{Report on deserters}
+{405}{}{-empty-}
+{406}{}{Entries from the diary}
+{407}{}{Medical report}
+{408}{}{Exodus}
+{409}{}{Radio station documents}
+{410}{}{Jay's message}
+{411}{}{History of the Wind of War}
+{412}{}{Memory card analysis}
+{413}{}{Note about Big Louis}
+{414}{}{Trapped man's note}
+{415}{}{Officer's records}
+{416}{}{-empty-}
+{417}{}{-empty-}
+{418}{}{Criminal case 4783}
+{419}{}{Stagecoaches advertisment}
+{420}{}{-empty-}
+
+#
+# Movie archive titles
+# Order must match the list (see gmovie.h)
+#
+{500}{}{Warning}
+{501}{}{Intro}
+{502}{}{Year 2091}
+{503}{}{Year 2140}
+{504}{}{Exile}
+{505}{}{First time on the surface}
+{506}{}{Starting the Car}
+{507}{}{Hawthorne panorama}
+{508}{}{-empty-}
+{509}{}{Departure by train}
+{510}{}{-empty-}
+{511}{}{Return to Salt Lake}
+{512}{}{Reminder 1}
+{513}{}{Reminder 2}
+{514}{}{Reminder 3}
+{515}{}{SOS signal}
+{516}{}{Credits}
+
+#
+# Things for the Mac version to speak
+#
+#
+{600}{}{Status}
+{601}{}{Clues}  # Clues gone
+{602}{}{Automaps}
+{603}{}{Archives}
+{604}{}{Alarm Clock}
+{605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
+{606}{}{Welcome to the Rob Co Pipboy 2009.}
+{607}{}{So long.}
+{608}{}{Wake up.}
+
+
+#
+# Holodisk text
+#
+
+# Special assignment VC - list
+# GVAR_VC_SUPERBONUS
+{1000}{}{Required to find the following for Vault 8 warehouse}
+{1001}{}{Vault-Tec technology items:}
+{1002}{}{}
+{1003}{}{  * Ion synthesizer}
+{1004}{}{  * Gas analyzer}
+{1005}{}{  * Pulse modulator}
+{1006}{}{  * Pressure regulator}
+{1007}{}{  * Clothing synthesizer chip}
+{1008}{}{}
+{1009}{}{**END-DISK**}
+
+# Vault 8: Investigator report
+# GVAR_HOLODISK_COUNTRY_MSG (GVAR_HOLODISK_MB_OUTSIDE)
+{2000}{}{A draft of a report about a criminal prosecution}
+{2001}{}{}
+{2002}{}{Author Malcolm Rivers, deputy Sheriff}
+{2003}{}{}
+{2004}{}{}
+{2005}{}{I wrote this report incase, if something}
+{2006}{}{happens to us. If you find this}
+{2007}{}{notes, send them to Washoe County Sheriff,}
+{2008}{}{state of Nevada.}
+{2009}{}{}
+{2010}{}{Entry 1}
+{2011}{}{}
+{2012}{}{Ely Gorbinsky - that damn son of a bitch. he escaped}
+{2013}{}{justice after killing an Afro-American}
+{2014}{}{in Reno. The court released him on a}
+{2015}{}{house arrest. I can't leave such a bold act}
+{2016}{}{of racism! Thatís why I started to collect information}
+{2017}{}{about the criminal, and I was right. He actually left}
+{2018}{}{the town in north direction ignoring,}
+{2019}{}{the court's order. When he felt he's been watched,}
+{2020}{}{Gorbinsky tried to disappear, but I constantly followed}
+{2021}{}{him, until the events on the road.}
+{2022}{}{Few miles away from NPP "Poseidon Oil"}
+{2023}{}{I cached up to him, the criminal tried to ram}
+{2024}{}{my car off the road. There was an accident, both}
+{2025}{}{vehicles where destroyed. Gorbinsky took a hit}
+{2026}{}{in the head and lost consciousness, I got away}
+{2027}{}{with few bruises (luckily!). While the bastart was,}
+{2028}{}{regaining his senses I called for backup on the radio.}
+{2029}{}{}
+{2030}{}{The truck from NPP arrived, he took us to the}
+{2031}{}{station. In order to prevent Gorbinsky}
+{2032}{}{from trying anything, I handcuffed him}
+{2033}{}{and confiscated all his belongings. On the station}
+{2034}{}{we could not get help, there was a mess. It seemed,}
+{2035}{}{that NPP was packing the equipment, and people}
+{2036}{}{where preparing for an evac. But I had no time to}
+{2037}{}{learn anything. My backup never arrived.}
+{2038}{}{We had to take the bus in the morning}
+{2039}{}{going to Reno. The driver made a stop}
+{2040}{}{ at a mining village of the Wilsons}
+{2041}{}{family property. They are decent folks,}
+{2042}{}{that are mining in the area, they accepted}
+{2043}{}{us very well.}
+{2044}{}{}
+{2045}{}{Sometime around 12:30 ÔÓ Ely Gorbinsky}
+{2046}{}{escaped from me. While he was handcuffed}
+{2047}{}{to a radiator, I went to a store,}
+{2048}{}{he picked the lock with a piece of wire.}
+{2049}{}{When I run out of the house, he already}
+{2050}{}{high jacked a bus and was driving full speed}
+{2051}{}{south. He had passengers with him, that}
+{2052}{}{probably didn't even notice. The bus driver}
+{2053}{}{was found dead in the restroom.}
+{2054}{}{}
+{2055}{}{There is no radio here, the next bus will come}
+{2056}{}{tomorrow noon. Local truck is under repair,}
+{2057}{}{and it will be finished only tomorrow morning.}
+{2058}{}{The only thing that left is to hope, that}
+{2059}{}{in that time Gorbinsky won't make any more trouble.}
+{2060}{}{}
+{2061}{}{But, either way, I will make him pay!}
+{2062}{}{Criminals can't walk on the freedom.}
+{2063}{}{Even in this remote place, that is our county.}
+{2064}{}{}
+{2065}{}{Entry 2}
+{2066}{}{}
+{2067}{}{I waited for a bus until 16:00. When I realized, that}
+{2068}{}{it won't come, I started convincing the mechanic,}
+{2069}{}{that he should hurry up with the truck. But he}
+{2070}{}{was drunk. I'm forced again to stay here for another}
+{2071}{}{day, while that damned Gorbinsky is loose}
+{2072}{}{and has a stolen vehicle! This is going to be}
+{2073}{}{tough to wait, I must stop him, but instead}
+{2074}{}{I sit here, bound by some mechanical problems.}
+{2075}{}{Am I the only one, that cares about justice}
+{2076}{}{in this place?..}
+{2077}{}{}
+{2078}{}{We wrapped up driver's body in a sheet of clothing}
+{2079}{}{and placed him in the hangar. Bastard!}
+{2080}{}{When I get to Gorbinsky, no judge is going}
+{2081}{}{to save him!}
+{2082}{}{}
+{2083}{}{Entry 3}
+{2084}{}{}
+{2085}{}{It was a rough day today...}
+{2086}{}{}
+{2087}{}{The bus didn't showed up again. later that}
+{2088}{}{day I just forced the mechanic to repair the engine}
+{2089}{}{in the truck. We went to Reno next,}
+{2090}{}{but on our way, in the next valley, we spotted the}
+{2091}{}{bus, on which Gorbinsky escaped.}
+{2092}{}{It was empty. And for some reason in was facing the village.}
+{2093}{}{Gorbinsky came back, or he didn't left at all!}
+{2094}{}{I tried to reach my people on the radio of the bus,}
+{2095}{}{or at least the bus station in Reno,}
+{2096}{}{I received some white noise instead of an answer.}
+{2097}{}{Did everybody, just died in there, God damn it?!}
+{2098}{}{}
+{2099}{}{We returned to the village, in order to warn}
+{2100}{}{the people about the danger, but it was late - one}
+{2101}{}{of the workers died by a forced death in the diner.}
+{2102}{}{You wouldn't wish this on your enemy.}
+{2103}{}{}
+{2104}{}{I stayed, in order to help the locals.}
+{2105}{}{Otherwise what kind of fucking deputy Sheriff I am, hah?}
+{2106}{}{In this place I especially miss Fimida, the woman}
+{2107}{}{I missed so much since I came to America...}
+{2108}{}{I was right to stay.}
+{2109}{}{Late at night Wilsons found another worker's head}
+{2110}{}{in the washing machine.}
+{2111}{}{}
+{2112}{}{That son of a bitch is somewhere close!}
+{2113}{}{I just have to stop him, before anyone else}
+{2114}{}{gets hurt...}
+{2115}{}{}
+{2116}{}{Entry 4}
+{2117}{}{}
+{2118}{}{... I couldnít sleep. The truck was set on fire at night.}
+{2119}{}{The mechanic was inside. He was last seen drunk, Wilsons}
+{2120}{}{decided, that he was the one to set the truck on fire.}
+{2121}{}{But I know, who've done this!}
+{2122}{}{}
+{2123}{}{Now we have no transport. At all.}
+{2124}{}{Those that interfered with my investigation, where locked away}
+{2125}{}{in the diner. Let them sit, while I find that}
+{2126}{}{filthy scum...}
+{2127}{}{}
+{2128}{}{Entry 5}
+{2129}{}{}
+{2130}{}{I'm all alone now.}
+{2131}{}{All this time I was making notes Gorbinsky}
+{2132}{}{killed one person at a time...}
+{2133}{}{Bastard! I hope you'll burn in hell!!! ...}
+{2134}{}{Nobody except me, can stop him now}
+{2135}{}{and restore justice.}
+{2136}{}{Only if... ONLY IF that judge condemned him on}
+{2137}{}{an electric chair...}
+{2138}{}{ONLY IF the patrol would respond}
+{2139}{}{in time...}
+{2140}{}{What is happening in the world, damn it?!}
+{2141}{}{Why nobody's looking for us?}
+{2142}{}{Why there is still no bus?}
+{2143}{}{Could it be that a war started?..}
+{2144}{}{}
+{2145}{}{I'm going to stop the bastard *by any means necessary*.}
+{2146}{}{And let them fire me, I won't leave it}
+{2147}{}{like this.}
+{2148}{}{**END-DISK**}
+
+# Item list
+# GVAR_PIPBOY_LIST_CARAVAN_ITEMS
+{3000}{}{List of items caravan driver ordered.}
+{3001}{}{}
+{3002}{}{  * Sledgehammer}
+{3003}{}{  * Gecko pelt (any)}
+{3004}{}{  * Shovel}
+{3005}{}{  * First Aid Kit}
+{3006}{}{  * Flare (3)}
+{3007}{}{  * Rope}
+{3008}{}{  * Empty flask (2)}
+{3009}{}{  * Scrap (junk)}
+{3010}{}{  * Rubber boots}
+{3011}{}{  * Wrench}
+{3012}{}{  * Weapon parts}
+{3013}{}{}
+{3014}{}{It is necessary to hurry to collect,}
+{3015}{}{in three days the caravan will depart.}
+{3016}{}{**END-DISK**}
+
+# Free space
+{4000}{}{--EMPTY--}
+{4001}{}{**END-DISK**}
+
+# Hawthorne: Report on deserters
+# GVAR_HOWTHORNE_DSK_DESERTIRES (GVAR_HOLODISK_MB_LEVEL_3)
+{5000}{}{}
+{5001}{}{This document contains a case report}
+{5002}{}{of mass desertion.}
+{5003}{}{}
+{5004}{}{As the commission established, a group of soldiers}
+{5005}{}{seized equipment and weapons from Hawthorn warehouses,}
+{5006}{}{after that fought their way out of the perimeter}
+{5007}{}{of the base. The reason that pushed the soldiers to}
+{5008}{}{commit a crime, was panic, supposedly caused by}
+{5009}{}{declassified information about the upcoming nuclear}
+{5010}{}{war.}
+{5011}{}{}
+{5012}{}{Deserters took their families and personal belongings}
+{5013}{}{with them. It is established that the group took}
+{5014}{}{shelter in the vault code-named "Wind of War".}
+{5015}{}{This test shelter is located near the city}
+{5016}{}{Paramp. It was intended for testing of building}
+{5017}{}{materials, used in the project network}
+{5018}{}{of vaults Vault-Tec, After which it was transferred}
+{5019}{}{to the military base department for educational purposes.}
+{5020}{}{Coordinates to the vault are included.}
+{5021}{}{}
+{5022}{}{The report is dated October 22, 2077.}
+{5023}{}{**END-DISK**}
+
+# Free space
+{6000}{}{--EMPTY--}
+{6001}{}{**END-DISK**}
+
+# Gov. vault: Entries from Stepleton's diary
+# GVAR_HOLODISK_ENCLAV_DIARY (GVAR_HOLODISK_SIERRA_EXP_LOG)
+{7000}{}{Records from Mr. Stepleton's diary}
+{7001}{}{}
+{7002}{}{(Records were conducted with variable regularity}
+{7003}{}{for several years in the govermental vault. You}
+{7004}{}{wrote down only the most interesting fragments.)}
+{7005}{}{}
+{7006}{}{**END-PAR**}
+{7007}{}{July 9, 2077}
+{7008}{}{The vault is sealed. People have mixed feelings.}
+{7009}{}{Some are clearly inclined to claustrophobia, seizures}
+{7010}{}{and are running around in the corridor. Our doctor}
+{7011}{}{is constantly overwhelmed with work with such}
+{7012}{}{idiots. The vice president after a mental breakdown}
+{7013}{}{left the dining room in wet pants and for a long}
+{7014}{}{time tried to convince everyone that it was spilled}
+{7015}{}{nuka-cola. By the way, it began to eat away the}
+{7016}{}{jumpsuit. I wonder what the cola is made of?}
+{7017}{}{}
+{7018}{}{July 15, 2077}
+{7019}{}{Things gradually calmed down. The President ordered}
+{7020}{}{to include the creek noise in the center of the lawn}
+{7021}{}{opposite dining room. Now it's nice and peaceful there.}
+{7022}{}{}
+{7023}{}{August 10, 2077}
+{7024}{}{All are well accustomed to their rooms and do not}
+{7025}{}{want to get out. No one cares about anything, looking}
+{7026}{}{only after themselves. With the exception of our}
+{7027}{}{guards, these poor guys have to do exercises every}
+{7028}{}{day in the gym. They say Private McKinley refused to}
+{7029}{}{get out of bed for the training and for this the}
+{7030}{}{sergeant cut his share of Nuka-Cola. Very cruel}
+{7031}{}{punishment.}
+{7032}{}{}
+{7033}{}{September 10, 2077}
+{7034}{}{Nuka-Cola is causing, people to burp and colors their}
+{7035}{}{tongues red, but no one is even remotely worried}
+{7036}{}{about it, because everyone likes it. A competition}
+{7037}{}{began for the loudest burp possible. Private McKinley}
+{7038}{}{is currently in the lead.}
+{7039}{}{}
+{7040}{}{September 12, 2077. Although the private McKinley}
+{7041}{}{is a bit behind in the competition, everyone says}
+{7042}{}{that his burp, if not the loudest, is the most}
+{7043}{}{resounding. A team of musicians is recruited from}
+{7044}{}{the population who will play and sing using only}
+{7045}{}{burp of a very different frequency. I think I'll}
+{7046}{}{do well for the task.}
+{7047}{}{}
+{7048}{}{September 18, 2077. Damn it! Today we made a general}
+{7049}{}{warning that the concerts of burpists are henceforth}
+{7050}{}{forbidden, since at such rates of consumption of Nuka-}
+{7051}{}{Cola it simply wonít be any left in the vault. It's a}
+{7052}{}{pity. After all, the first concerts of burpsinging were}
+{7053}{}{successful. How can we be now without their unforgettable}
+{7054}{}{compositions...}
+{7055}{}{}
+{7056}{}{September 20, 2077. Private McKinley came up with a}
+{7057}{}{new competition! Spitting for a long distance! Damn,}
+{7058}{}{this is a great idea! I hope, at least this is not}
+{7059}{}{forbidden to us!}
+{7060}{}{}
+{7061}{}{September 21, 2077.}
+{7062}{}{Private McKinley became a victim of his own idea.}
+{7063}{}{When trying to spit the cap of a pen, the}
+{7064}{}{cap fell into the trachea of the private, and}
+{7065}{}{he choked. The doctor says that the case is unique,}
+{7066}{}{and it never happened in his practice. The doctor}
+{7067}{}{refused to pull out the cap. Poor cap... That is,}
+{7068}{}{poor private.}
+{7069}{}{}
+{7070}{}{September 27, 2077. Without the private McKinley, it}
+{7071}{}{became boring. Therefore, the superintendent ordered}
+{7072}{}{to arrange parties in the dining room on Saturdays.}
+{7073}{}{Cool. I hope they will give us Nuka-Cola.}
+{7074}{}{}
+{7075}{}{September 30, 2077. At the party, the sergeant had}
+{7076}{}{too much cola and beat the vice president. The reason}
+{7077}{}{was a dispute about whose burp was cooler - the vice}
+{7078}{}{president said that his was more sonorous, and the}
+{7079}{}{sergeant claimed that his burp worked best. A fight}
+{7080}{}{broke out.}
+{7081}{}{}
+{7082}{}{Sep. 31, 2077. The sergeant and vice-president sat in}
+{7083}{}{the dining room at the table, like old friends.}
+{7084}{}{Probably, thatís how it is.}
+{7085}{}{**END-PAR**}
+{7086}{}{*********}
+{7087}{}{}
+{7088}{}{Aug. 5, 2078. There are rumors in the vault that the}
+{7089}{}{war did not happen. Of course, ordinary people are}
+{7090}{}{not allowed to know this, but if so, all this time we}
+{7091}{}{were doing nothing, when outside the world lived as}
+{7092}{}{before? We need to convene a council, so that the}
+{7093}{}{overseer explain the whole situation to us.}
+{7094}{}{}
+{7095}{}{August 13, 2078. The overseer suddenly announced that}
+{7096}{}{the cola synthesizer in the vault was broken, and now}
+{7097}{}{we are left without our favorite entertainment. The}
+{7098}{}{people are in panic.}
+{7099}{}{}
+{7100}{}{August 15, 2078. People were tired of waiting, and}
+{7101}{}{everyone began to write a petition to the president,}
+{7102}{}{so that the cola synthesizer would be quickly fixed.}
+{7103}{}{}
+{7104}{}{August 20, 2078. Out of nothing to do, residents}
+{7105}{}{began to write petitions addressed to the president.}
+{7106}{}{I also wrote that I want the walls painted in blue,}
+{7107}{}{and the neighbor asked for a rope and a piece of soap.}
+{7108}{}{I wonder why he needs them?}
+{7109}{}{}
+{7110}{}{August 27, 2078.}
+{7111}{}{Fuck! Why did my neighbor's request was complete, but}
+{7112}{}{my not? I am disappointed! What do these damn}
+{7113}{}{bureaucrats do in the government office! Maybe I}
+{7114}{}{should write a petition again?}
+{7115}{}{}
+{7116}{}{**END-PAR**}
+{7117}{}{}
+{7118}{}{*********}
+{7119}{}{}
+{7120}{}{February 5, 2086. The situation is just crap! The}
+{7121}{}{vault was divided into two camps. Some defend the}
+{7122}{}{sergeant with his policy of "staying in place," while}
+{7123}{}{others support the vice president, who calls everyone}
+{7124}{}{to leave the shelter to help those in need after the}
+{7125}{}{war in the outside world. I do not think it's worth}
+{7126}{}{sharing our technology with all sorts of radioactive}
+{7127}{}{zombies. So far, only the overseer and the president}
+{7128}{}{himself remain on the sidelines and are silent about}
+{7129}{}{their opinion.}
+{7130}{}{}
+{7131}{}{March 12, 2086. The fights became so intense that}
+{7132}{}{they will soon split the dining room in two!}
+{7133}{}{}
+{7134}{}{March 13, 2086. Its over. This is the end. Today}
+{7135}{}{after a massive drinking of cola a whole battle}
+{7136}{}{between factions broke out they fought hand to hand}
+{7137}{}{and even with chairs. Why are people so mad? Maybe}
+{7138}{}{they add something in it that increases aggression?}
+{7139}{}{}
+{7140}{}{March 14, 2086. Those fucking gangs! They got drunk}
+{7141}{}{again and had a fight! The sergeant drove a chair}
+{7142}{}{over the head to the president himself!}
+{7143}{}{And it fell off.}
+{7144}{}{What will happen now!?}
+{7145}{}{}
+{7146}{}{March 15, 2086. The factions concluded a temporary}
+{7147}{}{truce to solve the problem of the absence of the}
+{7148}{}{president. More precisely, this problem is now}
+{7149}{}{solved by the overseer and the doctor. They decided}
+{7150}{}{to connect the severed head to the wires and try to}
+{7151}{}{revive it. Why the hell we need it anyway, but the}
+{7152}{}{idea is interesting!}
+{7153}{}{}
+{7154}{}{March 20, 2086. Who would have thought ?! Today,}
+{7155}{}{the solemn launch of the head of the President took}
+{7156}{}{place. The first words that the head said when}
+{7157}{}{switching on the toggle switches were: "Assholes,}
+{7158}{}{where is my doll?!" The doll was found in the}
+{7159}{}{president's office, and after that the head calmed}
+{7160}{}{down. Everyone was expecting different reaction.}
+{7161}{}{}
+{7162}{}{**END-PAR**}
+{7163}{}{April 1, 2087. The head became unbearable!}
+{7164}{}{It turned out that it had been subjugating computer}
+{7165}{}{systems all this time. Now there are ominous jokes}
+{7166}{}{coming from the loudspeaker, and the donut machine}
+{7167}{}{began to bake donuts in the form of a hanging loop.}
+{7168}{}{It's time to do something! We are scared to leave}
+{7169}{}{our own rooms!}
+{7170}{}{}
+{7171}{}{July 3, 2087. That's it! Everybody had it with this}
+{7172}{}{ugly thing! Tomorrow we will have an open council,}
+{7173}{}{and decide what to do with this torn off head.}
+{7174}{}{}
+{7175}{}{July 4, 2087. The Council did not reach a single}
+{7176}{}{conclusion. It turned out that we can not}
+{7177}{}{disconnect the head. The head was already so} 
+{7178}{}{strongly implanted in the vault network that it}
+{7179}{}{began to control even the power supply. Story} 
+{7180}{}{short, this problem will remain open.}
+{7181}{}{}
+{7182}{}{Jan 10, 2090. In recent years we have been sitting}
+{7183}{}{in our rooms. Silly jokes of the head were replaced} 
+{7184}{}{by direct threats. The head complains that we dont}
+{7185}{}{listen and dont take care of it, never scratch its} 
+{7186}{}{feet and etc. It became dangerous. The head is in a}
+{7187}{}{state of mental breakdown, like all of us. They say} 
+{7188}{}{it even controls the security turrets. Is it true?}
+{7189}{}{**END-PAR**}
+{7190}{}{Jan 15, 2090. We're leaving.}
+{7191}{}{Good-bye, donut machine.}
+{7192}{}{Good-bye, nuka cola.}
+{7193}{}{I wont ever forget you.}
+{7194}{}{**END-DISK**}
+
+# Gov. vault: Medical report on the head
+# GVAR_HOLODISK_ENCLAV_MED (GVAR_HOLODISK_SIERRA_MED_LOG)
+{8000}{}{}
+{8001}{}{On the mental state of the president's head}
+{8002}{}{}
+{8003}{}{We had a conversation with the head of the former}
+{8004}{}{president. The conclusions are disappointing. For}
+{8005}{}{several years in the absence of natural human}
+{8006}{}{communication, the head has lost control over its}
+{8007}{}{fantasies and often takes its thoughts for reality.}
+{8008}{}{The head tends to identify with its doll. In}
+{8009}{}{addition to the long absence of communication, the}
+{8010}{}{cause of aggression is also an overestimated}
+{8011}{}{egocentrism. The head needs attention, but since it}
+{8012}{}{is not provided, it chooses more and more stringent}
+{8013}{}{and cardinal measures to achieve it. I'm afraid, in}
+{8014}{}{a couple of years, the head will become an}
+{8015}{}{uncontrollable psychopath.}
+{8016}{}{}
+{8017}{}{}
+{8018}{}{Long-term psychiatric treatment is required.}
+{8019}{}{**END-DISK**}
+
+# Gov. vault: Exit
+# GVAR_HOLODISK_ENCLAV_ISHOD (GVAR_HOLODISK_SIERRA_EVACUATION)
+{9000}{}{This disk contains various information from the}
+{9001}{}{main computer of the vault, including records of}
+{9002}{}{the last days before the "exit" - the case that}
+{9003}{}{caused the residents to leave the shelter.}
+{9004}{}{ }
+{9005}{}{The general point is that the vault was created for}
+{9006}{}{government elite of the United States, including}
+{9007}{}{the president, his family and his staff. It was was}
+{9008}{}{equipped with the latest technology, but this did}
+{9009}{}{not save its inhabitants. After sealing the vault,}
+{9010}{}{the misfortune happened with the president - his}
+{9011}{}{head was torn off. The head was revived in the}
+{9012}{}{laboratory, so as not to lose the secret knowledge}
+{9013}{}{of the President. However, the head was too self-}
+{9014}{}{centered, and after losing attention to one's own}
+{9015}{}{person, it began to behave despotically. The banter}
+{9016}{}{over citizens was replaced by a clear threat to}
+{9017}{}{their life or health. The recommendation to destroy}
+{9018}{}{the head was belated - the head managed to}
+{9019}{}{subordinate computer systems and various robotics.}
+{9020}{}{Any oversight could become critical for residents.}
+{9021}{}{As a result, it was decided to leave the shelter}
+{9022}{}{and relocate to a reserve government base in an oil}
+{9023}{}{rig in the ocean. However, on the day of exodus,}
+{9024}{}{the head tried to stop the fugitives.}
+{9025}{}{ }
+{9026}{}{A group of guards decided to destroy the reservoir}
+{9027}{}{with the head, but when they got to the lab,}
+{9028}{}{turrets where activated, and as a result they were}
+{9029}{}{killed. After that, the head began to exterminate}
+{9030}{}{everyone it could. Yet most of the citizens were}
+{9031}{}{saved, including the current president. They took}
+{9032}{}{the most valuable equipment and escaped.}
+{9033}{}{ }
+{9034}{}{The vault was abandoned.}
+{9035}{}{**END-DISK**}
+
+# Jay's messege
+# GVAR_HOWTHORNE_DSK_BAIKER_MSG (GVAR_SIERRA_MISSION_HOLODISK)
+{10000}{}{I didnt expect you to make it this far. But since}
+{10001}{}{you're here, it's not accidental. You'll have to}
+{10002}{}{work hard in order to meet me. Get into the}
+{10003}{}{military hangar V9 in the north and find a silencer}
+{10004}{}{of the radio signal there. To reduce the risk, try}
+{10005}{}{to disconnect the power plant at the underground}
+{10006}{}{level in the same place. Next, connect the jammer}
+{10007}{}{to the radio equipment on the second floor of the}
+{10008}{}{building in the garrison and wait for me at the exit.}
+{10009}{}{That is all.}
+{10010}{}{**END-DISK**}
+
+# Radio station case documents
+# GVAR_SHAIEN_RADIO_KEISHOLODISK (GVAR_SIERRA_GNN_HOLODISK)
+{11000}{}{In the case of radio stations is dense pack}
+{11001}{}{of documents and disks. They might seem}
+{11002}{}{useless garbage, if not for their secrecy.}
+{11003}{}{In addition, the information is encrypted, that}
+{11004}{}{leads to some thoughts.}
+{11005}{}{}
+{11006}{}{Apparently, a radio station in Lovelock was one the}
+{11007}{}{points for military broadcasting. Here were engaged}
+{11008}{}{linkages between the General Staff}
+{11009}{}{military bases, a network of vaults, laboratories}
+{11010}{}{as well as - if necessary - the secret wiretapping.}
+{11011}{}{}
+{11012}{}{Among the documents you'll suddenly discover}
+{11013}{}{surveillance reports for Vault 8:}
+{11014}{}{negotiations on the external and internal communication}
+{11015}{}{data interception computer systems, etc.}
+{11016}{}{The Vault has been under the close supervision of the military -}
+{11017}{}{information is provided in Hawthorne Army base.}
+{11018}{}{}
+{11019}{}{It will take time to decipher all}
+{11020}{}{documentation, but it is now clear that it is}
+{11021}{}{very important for your city.}
+{11022}{}{**END-DISK**}
+
+# Wind of War history
+# GVAR_WIND_HISTORY_HOLODISK (GVAR_ELRON_HOLODISK)
+{12000}{}{Short history of Wind of War}
+{12001}{}{}
+{12002}{}{(Audio recording of conversation with the soldier)}
+{12003}{}{}
+{12004}{}{"We are all descendants of people who survived the}
+{12005}{}{Great War in a safe haven, our ancestors were an}
+{12006}{}{elite military unit at the Hawthorn military base,}
+{12007}{}{at least they told us so." When there was no one to}
+{12008}{}{save in Nevada, they took refuge in a test shelter}
+{12009}{}{nearby. The shelter was code-named "Wind of War",}
+{12010}{}{it was built exclusively for testing the materials}
+{12011}{}{and technologies of the vault networks."}
+{12012}{}{}
+{12013}{}{}
+{12014}{}{}
+{12015}{}{"When the resources of the shelter were exhausted,}
+{12016}{}{we had to come to the surface and start a new life}
+{12017}{}{in the struggle for our place under the sun. General}
+{12018}{}{Wesker took the situation under control. We settled}
+{12019}{}{in these ruins, equipped them, Dragged out of}
+{12020}{}{Hawthorne some weapons and equipment, then blew up}
+{12021}{}{the shelter and began to live here, but it turned}
+{12022}{}{out that we are not fit to work in agriculture, but}
+{12023}{}{we must live somehow, mainly we lived at the}
+{12024}{}{expense of hunting, but in this locality there are}
+{12025}{}{deserts alone , It is not so easy to find food}
+{12026}{}{here. After the "aliens" came, hunting has become}
+{12027}{}{particularly difficult. And the general found a}
+{12028}{}{different way of earning - we became defenders for}
+{12029}{}{small settlements and a transit point for caravans.}
+{12030}{}{So slowly things began to improve."}
+{12031}{}{}
+{12032}{}{**END-DISK**}
+
+# Memory card
+# GVAR_NEW_RENO_DILIZHAS_ROBOTMODUL (GVAR_RESERVED_VAR13)
+{13000}{}{}
+{13001}{}{}
+{13002}{}{Here is collected important information from the}
+{13003}{}{decrypted data of the security robot registrar, who}
+{13004}{}{accompanied the cravan from Salt Lake to New Reno.}
+{13005}{}{}
+{13006}{}{As it turned out, bikers did not attack the}
+{13007}{}{stagecoach, the crew members themselves did it, the}
+{13008}{}{same ones who later returned to the city and blamed}
+{13009}{}{the bikers for everything.}
+{13010}{}{}
+{13011}{}{More than one person will definitely be interested}
+{13012}{}{to see this info.}
+{13013}{}{}
+{13014}{}{**END-DISK**}
+
+# Armstrong
+# GVAR_LIST_ARMSTRONG_PANIHIDA (GVAR_VAULT_CITY_DESIGNER_NOTES)
+{14000}{}{News from the Washington Post:}
+{14001}{}{}
+{14002}{}{The death of Louis Armstrong caused a real stream}
+{14003}{}{of the most sincere and deepest condolences. Many}
+{14004}{}{newspapers, not only in the US, but also in other}
+{14005}{}{countries, posted on the front page a message about}
+{14006}{}{his death.}
+{14007}{}{}
+{14008}{}{The funeral was very solemn and broadcast on}
+{14009}{}{television throughout the country. On July 8, the}
+{14010}{}{body was exhibited for solemn farewell in the}
+{14011}{}{training arena of the National Guard, which was}
+{14012}{}{provided for these purposes on the personal orders}
+{14013}{}{of the President of the United States. A statement}
+{14014}{}{made by President Nixon said:}
+{14015}{}{}
+{14016}{}{"Mrs. Nixon and I share the grief of millions of}
+{14017}{}{Americans in connection with the death of Louis}
+{14018}{}{Armstrong.He was one of the creators of American}
+{14019}{}{art.The man of bright personality, Armstrong has}
+{14020}{}{gained worldwide fame, his brilliant talent and}
+{14021}{}{nobleness enriched our spiritual life, made it more}
+{14022}{}{complete"}
+{14023}{}{**END-PAR**}
+{14024}{}{**END-DISK**}
+
+# Notes of the trapped man
+# ¿‚ÚÓ ÚÂÍÒÚ‡ - Kerb (¿ÎÂÍÒ‡Ì‰ ¿„‡ÙÓÌˆÂ‚)
+# GVAR_HOLODISK_SALT_MINIVAULT (GVAR_NCR_SPY_HOLO_DOWNLOAD)
+{15000}{}{}
+{15001}{}{(A plain notebook in a worn leather binding. The}
+{15002}{}{first pages are filled with neat, slender}
+{15003}{}{handwriting, but then you can hardly distinguish}
+{15004}{}{the uneven lines on blood-stained crumpled sheets.)}
+{15005}{}{}
+{15006}{}{}
+{15007}{}{}
+{15008}{}{}
+{15009}{}{Day 1}
+{15010}{}{}
+{15011}{}{Fuckers, I did it! You can now tear each other to}
+{15012}{}{pieces, even eat each other alive. I'll just wait}
+{15013}{}{here all this time, and I've learned to wait}
+{15014}{}{well... I wish you knew it, Watkins! And you,}
+{15015}{}{Kurovski, you damn fucking dog... Well, I will not}
+{15016}{}{forget you. I'll come piss on your graves! The last}
+{15017}{}{time I didnt go for food... For some reason I}
+{15018}{}{decided that it was better not to go outside any}
+{15019}{}{more. It's not fear... no, just a precaution... I'm}
+{15020}{}{normal with my nerves, it should be like this...}
+{15021}{}{}
+{15022}{}{}
+{15023}{}{}
+{15024}{}{}
+{15025}{}{Day 2}
+{15026}{}{}
+{15027}{}{Basically I fall asleep, I stuff my belly. I read a}
+{15028}{}{little - the light for me is also a non-renewable}
+{15029}{}{resource. Outside I heard a couple of shots. Has it}
+{15030}{}{began?}
+{15031}{}{}
+{15032}{}{Day 3}
+{15033}{}{}
+{15034}{}{Shit! All hell broke loose! Gunfire and explosions}
+{15035}{}{all day, screams... Someone, it seems, was knocked}
+{15036}{}{right at my door... he's yelling all the time like}
+{15037}{}{an animal at the slaughterhouse... Damn, will}
+{15038}{}{someone finish him off already...}
+{15039}{}{}
+{15040}{}{Day 4}
+{15041}{}{}
+{15042}{}{He's dead finally or simply weakened...}
+{15043}{}{Interestingly, I kind of got used to this fucker -}
+{15044}{}{I even talked to him... Unilaterally, of course,}
+{15045}{}{hehe... Now it's quiet, very quiet...}
+{15046}{}{}
+{15047}{}{}
+{15048}{}{Day 5}
+{15049}{}{}
+{15050}{}{I would never have thought what torture it is being}
+{15051}{}{in silence... I talk to myself, and make all kind}
+{15052}{}{of noise... Just to drive it away for a moment...}
+{15053}{}{}
+{15054}{}{}
+{15055}{}{Day 6}
+{15056}{}{}
+{15057}{}{I woke up at night from what I felt ñ like someone}
+{15058}{}{is nearby... The light does not disperse the}
+{15059}{}{darkness, only makes it huddle in the far corner...}
+{15060}{}{No, it can not be, I'm alone here... alone in the}
+{15061}{}{dark... Haha...}
+{15062}{}{}
+{15063}{}{}
+{15064}{}{Day 7}
+{15065}{}{}
+{15066}{}{There is no more light... Silence drills the brain,}
+{15067}{}{darkness squeezes out your eyes... But - no sounds!}
+{15068}{}{It just waits for this... Or is it not? Am I like}
+{15069}{}{alone in here? I got confused... just dont sleep...}
+{15070}{}{The clock is no longer useful - time has stopped...}
+{15071}{}{How is it - not to sleep for eternity?}
+{15072}{}{}
+{15073}{}{}
+{15074}{}{Day ?}
+{15075}{}{}
+{15076}{}{Less food, water, life... Silence is already inside}
+{15077}{}{me... Begins to devour me... Slowly... The main}
+{15078}{}{thing is not to sleep, it can not hurt me if I do}
+{15079}{}{not sleep... Or if I do not make a noise ? Or its}
+{15080}{}{not the only thing that is after me...}
+{15081}{}{}
+{15082}{}{}
+{15083}{}{}
+{15084}{}{Out of time}
+{15085}{}{}
+{15086}{}{The supplies have run out... But I can not get out}
+{15087}{}{- the door has collapsed... Or the lock is}
+{15088}{}{broken... Or someone is waiting for me there... I}
+{15089}{}{can not get out, I can not, I do not have to go}
+{15090}{}{out, I should not... This is my day, baby!!!I will}
+{15091}{}{deceive them!!! They can not eat me if I eat}
+{15092}{}{myself!!! Haha !! They did not expect me to use the}
+{15093}{}{painkillers at the end... They knocked my spirits}
+{15094}{}{out of me, but I still managed to pick out my}
+{15095}{}{eyes... Suck dick, darkness! And I chewed my left}
+{15096}{}{arm by the elbow... only do not forget to drink}
+{15097}{}{blood... Silence will not get a drop... Next is the}
+{15098}{}{tongue and ears... which they surely are considered}
+{15099}{}{a delicacy... so let them disapointed!..}
+{15100}{}{}
+{15101}{}{}
+{15102}{}{}
+{15103}{}{}
+{15104}{}{**END-DISK**}
+
+# Audio recordings of the officer in Area 51
+# ¿‚ÚÓ ÚÂÍÒÚ‡ - Kerb (¿ÎÂÍÒ‡Ì‰ ¿„‡ÙÓÌˆÂ‚)
+# GVAR_ZONA_SOLDAT_AUDIO_HOLODISK (GVAR_NCR_HISTORY_HOLO_DOWNLOAD)
+{16000}{}{Audio recordings of the officer}
+{16001}{}{}
+{16002}{}{[Through the background noise, you clearly hear}
+{16003}{}{someone's confident, hoarse voice]}
+{16004}{}{}
+{16005}{}{**END-PAR**}
+{16006}{}{}
+{16007}{}{August 3, 2077}
+{16008}{}{}
+{16009}{}{[In the background, there is a clatter of boots on}
+{16010}{}{the parade ground; "Left shoulder forward" - words}
+{16011}{}{can not be heard clearly, but it looks as if one of}
+{16012}{}{the squads sings the anthem of the special forces]}
+{16013}{}{}
+{16014}{}{After the morning formation, our god on earth in}
+{16015}{}{the general's shoulder straps told me some nice}
+{16016}{}{fucking news, instead of vacationing in China with}
+{16017}{}{a company of unharnessed noobs, I, at the head of}
+{16018}{}{the second platoon, am expected at "Area 51". Why}
+{16019}{}{the local escrows arent enough for the protection}
+{16020}{}{is beyond me. So as if that wasnt enough - they}
+{16021}{}{attached some civilians to us... The fuck were}
+{16022}{}{their names... Fuck... One of these idiots asked}
+{16023}{}{for weapons. I laughed so hard. It shows that they}
+{16024}{}{can hardly oparate their dick in the toilet, why}
+{16025}{}{asking for a rifle. Okay, let's see how it goes...}
+{16026}{}{}
+{16027}{}{}
+{16028}{}{**END-PAR**}
+{16029}{}{}
+{16030}{}{August 14, 2077}
+{16031}{}{}
+{16032}{}{Story short - a complete pain in the ass. We will}
+{16033}{}{have to guard... aliens. No, I did not get drunk,}
+{16034}{}{although there is a desire. They are their so-}
+{16035}{}{called locals. If someone so stupidly wanted to}
+{16036}{}{make a joke, then he sucseeded. On arrival, the}
+{16037}{}{chief of the Security Council did not instruct us}
+{16038}{}{at all, but simply led us to look at the cameras}
+{16039}{}{with these creatures. That was a good idea. We were}
+{16040}{}{impressed. As you glance into their mouth ñ you}
+{16041}{}{imidiatly prefer being in the war zone in China,}
+{16042}{}{storming Anchorage cliffs again, anywere but away}
+{16043}{}{from here. The official story says that their ship}
+{16044}{}{allegedly crashed near Groom Lake. As for me, it's}
+{16045}{}{all the experiments of those eggheads, like the}
+{16046}{}{ones we dragged along with us. Now they seem to be}
+{16047}{}{thrilled with the view on the cameras. Fucking}
+{16048}{}{researchers, dumb ass motherfuckers...}
+{16049}{}{}
+{16050}{}{}
+{16051}{}{**END-PAR**}
+{16052}{}{}
+{16053}{}{September 2, 2077}
+{16054}{}{}
+{16055}{}{These scientists finally pissed me off. They}
+{16056}{}{complain about strict security and constant}
+{16057}{}{escort... Damn fucktards, PKK Jones and corporal}
+{16058}{}{Sterling, got drunk... No sergeant's skits for}
+{16059}{}{Sterling now. McCoy, the head of the Security}
+{16060}{}{Council, saved the day - showed everyone the}
+{16061}{}{recordings when one of the aliens broke free}
+{16062}{}{somewhere about six months ago. Before they got}
+{16063}{}{him, driving him into locked down Sector C (why is}
+{16064}{}{it locked down anyway), he managed to kill bunch of}
+{16065}{}{guards. Everything is calm now but for how long?}
+{16066}{}{}
+{16067}{}{}
+{16068}{}{**END-PAR**}
+{16069}{}{}
+{16070}{}{September 10 2077}
+{16071}{}{}
+{16072}{}{We are working. We test the creatures for}
+{16073}{}{toughness. 5mm, 7.62 or 9 - like shooting an}
+{16074}{}{elephant, even armor-piercing. The effect is small,}
+{16075}{}{of course, not worth of so much amunition for one}
+{16076}{}{opponent - this is not good. Laser, electricity the}
+{16077}{}{same effects. The big brains tried the poisons and}
+{16078}{}{radiation, but so far without any particular}
+{16079}{}{results. Well, tomorrow, heavy weapons will be}
+{16080}{}{tested. I had an oportunity to relieve my stress}
+{16081}{}{tough, one of the local informers wanted to take a}
+{16082}{}{look into my tablet. Well, thats ok, in a couple of}
+{16083}{}{weeks, his bones will grow back together.}
+{16084}{}{}
+{16085}{}{**END-PAR**}
+{16086}{}{September 12 2077}
+{16087}{}{}
+{16088}{}{It's getting fun. I couldn't help myself from}
+{16089}{}{wasting one with my Bozar. Flamethrowers have}
+{16090}{}{proven themselves to be the best at eliminating}
+{16091}{}{them. Guys are having too much fun, even some}
+{16092}{}{science nerds joined them. One of them mentioned}
+{16093}{}{that those beasts see us in infrared. Heat fields,}
+{16094}{}{thermal radiation, all this crap.. The only useful}
+{16095}{}{piece of information from the bookworms during our}
+{16096}{}{mission, by the way. All right, well, but.. I'm not}
+{16097}{}{that susceptible, but I feel like something is}
+{16098}{}{trying to tamper my sanity.. Is the place playing}
+{16099}{}{tricks on me?}
+{16100}{}{}
+{16101}{}{}
+{16102}{}{}
+{16103}{}{**END-PAR**}
+{16104}{}{}
+{16105}{}{October 3 2077}
+{16106}{}{}
+{16107}{}{One of the eggheads - Hubbard - flew off the}
+{16108}{}{handle. Started yelling that we ostensibly are}
+{16109}{}{exterminating intelligent beings, that we need to}
+{16110}{}{treat our "guests from outer space" peacefully,}
+{16111}{}{plunging his observation reports... Somehow}
+{16112}{}{discovered my Russian ancestry, called me a}
+{16113}{}{communist pig. Set himself on entering one of the}
+{16114}{}{chambers [laughter]. I am proud to say that our}
+{16115}{}{special forces do not hinder scientific advances!}
+{16116}{}{No, really, diplomacy is better than military}
+{16117}{}{action. Make love, not war, all that crap.. The}
+{16118}{}{fact that the alien painted the walls with the poor}
+{16119}{}{guy's blood ñ well, it's in their traditions, we}
+{16120}{}{should respect their culture.}
+{16121}{}{----}
+{16122}{}{Around flight level 117 UAVs spotted suspicious}
+{16123}{}{activity. Moving out with two squads tomorrow to}
+{16124}{}{check.}
+{16125}{}{}
+{16126}{}{**END-PAR**}
+{16127}{}{}
+{16128}{}{October 19 2077}
+{16129}{}{}
+{16130}{}{Jones and one of the security service members went}
+{16131}{}{missing. Base has some dead zones near sector C,}
+{16132}{}{with limited coverage. But why would they go there?}
+{16133}{}{Nowadays we don't wander alone; patrolling,}
+{16134}{}{perimeter checks.. My thoughts are all messed up...}
+{16135}{}{Combat readiness is declared.. HQ instructions}
+{16136}{}{arrived to await for further orders..}
+{16137}{}{}
+{16138}{}{}
+{16139}{}{**END-PAR**}
+{16140}{}{}
+{16141}{}{October 21 2077}
+{16142}{}{}
+{16143}{}{Something slipped into security barracks, and}
+{16144}{}{killed all the shifted guys.. Blood all over the}
+{16145}{}{ceiling, body parts and entrails everywhere.. HQ}
+{16146}{}{communication has been lost.. Security systems are}
+{16147}{}{constantly failing, partially lost control over the}
+{16148}{}{base. Two squads are sweeping the base, two}
+{16149}{}{remaining are holding perimeter...}
+{16150}{}{}
+{16151}{}{**END-PAR**}
+{16152}{}{}
+{16153}{}{October 22 2077}
+{16154}{}{}
+{16155}{}{[Sounds of large- and small-caliber guns firing,}
+{16156}{}{explosions, screams, sirens blaring. From time to}
+{16157}{}{time, on top of them, squeals changing to hissing}
+{16158}{}{could be heard]}
+{16159}{}{}
+{16160}{}{No more questions, but the answers aren't exciting}
+{16161}{}{either. The beast that we wasted about half a year}
+{16162}{}{ago, apparently was a female. She somehow managed}
+{16163}{}{to get into the sealed facilities, and lay eggs. As}
+{16164}{}{soon as we teared the doors open, it all hell broke}
+{16165}{}{loose. PFC Iron and lieutenant Parker burned the}
+{16166}{}{first wave with flamethrowers, but then those}
+{16167}{}{bastards hit us in the rear. Ripped them in pieces}
+{16168}{}{with burst fire, then one of the creatures gnawed}
+{16169}{}{on my arm. I managed to fight it off.}
+{16170}{}{}
+{16171}{}{**END-PAR**}
+{16172}{}{}
+{16173}{}{}
+{16174}{}{}
+{16175}{}{}
+{16176}{}{October 25 2077}
+{16177}{}{}
+{16178}{}{[For a while, nothing but hoarse breathing sounds]}
+{16179}{}{}
+{16180}{}{I am the only survivor... Gunfire changed to melee,}
+{16181}{}{then I got knocked out... Now it's all quiet... I}
+{16182}{}{can barely stand, can't move my arm.. Drugged}
+{16183}{}{myself to the point I cannot really say what's real}
+{16184}{}{and what's not... Don't hope for the rescue coming}
+{16185}{}{- we didn't respond to the status report request}
+{16186}{}{signal, QRF should've been there already... But I}
+{16187}{}{can do something all alone, too... Put as much}
+{16188}{}{explosions on me as I could... Will try to take a}
+{16189}{}{crapload of those fuckers along with me.. That's}
+{16190}{}{how my forefather destroyed "Tiger" in World War}
+{16191}{}{II... After all, special forces soldier is a combat}
+{16192}{}{unit in itself. So, commence the operation!}
+{16193}{}{}
+{16194}{}{**END-DISK**}
+
+# —‚Ó·Ó‰ÌÓÂ ÏÂÒÚÓ
+{17000}{}{--EMPTY--}
+{17001}{}{**END-DISK**}
+
+# —‚Ó·Ó‰ÌÓÂ ÏÂÒÚÓ
+{18000}{}{--EMPTY--}
+{18001}{}{**END-DISK**}
+
+# Salt Lake city, criminal case 4783
+# GVAR_HOLODISK_SALT_RAPORT
+{19000}{}{Criminal case 4783}
+{19000}{}{}
+{19001}{}{[Criminal case file, battered by rodents, time,}
+{19002}{}{and moisture, but some of the text could still be}
+{19003}{}{comprehended. ]}
+{19004}{}{}
+{19005}{}{[ Leather-bound diary, with an elegant religious}
+{19006}{}{stamping]}
+{19007}{}{}
+{19008}{}{Day I}
+{19009}{}{}
+{19010}{}{Today Emily confessed that she took a flower from}
+{19011}{}{our neighbor's garden. All our family, together,}
+{19012}{}{apologized to this worthy man, Mr. Flowers, he}
+{19013}{}{favorably accepted our apologies. And now, as I'm}
+{19014}{}{writing this, Emily prays to seek forgiveness from}
+{19015}{}{Our Lord. She does this voluntarily, as the seed of}
+{19016}{}{faith gave sprouts in her innocent soul, and this}
+{19017}{}{delights me ceaselessly...}
+{19018}{}{But back to the point! My parish awaits its pastor,}
+{19019}{}{as even in meadows of Paradise it is bequeathed to}
+{19020}{}{us to toil tenaciously in the name of Our Lord!}
+{19021}{}{}
+{19022}{}{Day II}
+{19023}{}{}
+{19024}{}{Bitter news came to our town - Mrs. Schultz's son,}
+{19025}{}{major Otto Schultz, perished in the Jilin}
+{19026}{}{province... I will certainly visit this grieving}
+{19027}{}{lady no later than today's evening. I hope I could}
+{19028}{}{relieve her sorrow and help reconcile with Our}
+{19029}{}{Lord... Why can't people live in peace? We are all}
+{19030}{}{brothers in the all-seeing eyes of Our Father...}
+{19031}{}{}
+{19032}{}{Day III}
+{19033}{}{}
+{19034}{}{Judgment Day has come... All the past experiences I}
+{19035}{}{can only recollect in fragments... Alarm siren akin}
+{19036}{}{to the Jericho trumpets... My poor Mary and Emily}
+{19037}{}{packing their belongings hastily... Stampede...}
+{19038}{}{Elderly couple trampled by cattle in fear-induced}
+{19039}{}{rage... Pavement, covered in blood... Doors to the}
+{19040}{}{Mr. Flowers' family shelter, who granted asylum to}
+{19041}{}{almost three dozens of refugees... But one thing I}
+{19042}{}{can recollect clearly... Before security cameras}
+{19043}{}{broke down, I witnessed the fireball in the}
+{19044}{}{horizon, expanding rapidly, greedily consuming}
+{19045}{}{souls of the Lambs of God...}
+{19046}{}{Dazzling flash...}
+{19047}{}{Demise came from the skies, but it looked like}
+{19048}{}{Hellfire breaking out from the ground...}
+{19049}{}{}
+{19050}{}{Day IV}
+{19051}{}{}
+{19052}{}{Lord Almighty, give me strength... Mary, my sweet}
+{19053}{}{Mary... Mr. Flowers said that shelter doesn't}
+{19054}{}{provide enough radiation protection... We took}
+{19055}{}{anti-radiation medicine, and she suffered bad}
+{19056}{}{allergic reaction... Her swollen hands, covered}
+{19057}{}{with stains, reaching to me...}
+{19058}{}{Pain in her eyes...}
+{19059}{}{Awful cries of pain...}
+{19060}{}{Why Our Lord is so cruel to me?}
+{19061}{}{She needs me so much in her last moments, but}
+{19062}{}{my strength is ebbing away...}
+{19063}{}{}
+{19064}{}{Day V}
+{19065}{}{}
+{19066}{}{Glory to Our Lord! I was so blind... I was}
+{19067}{}{fostering my spirit through prayers and fasting,}
+{19068}{}{and revelation came upon me! All that happened is}
+{19069}{}{part of the Greater Plan of Our Maker - to ascend}
+{19070}{}{the suffering souls up to Heaven! The flash that}
+{19071}{}{nearly blinded me - was the light of Pearly Gates}
+{19072}{}{open for all the righteous men! And we were lured}
+{19073}{}{into this purgatory by the servants of satan,}
+{19074}{}{tempting us with false promises of safety, in}
+{19075}{}{defiance of Our Father's will... Mary, I know}
+{19076}{}{you're waiting for me in Heaven, but I'm the pastor}
+{19077}{}{of lost souls on this wicked earth... Our daughter}
+{19078}{}{will soon join you, no matter how much I don't want}
+{19079}{}{her to...}
+{19080}{}{}
+{19081}{}{Day VI}
+{19082}{}{}
+{19083}{}{Today I opened the gates to let the strength of Our}
+{19084}{}{Maker, called "radiation" by ignorant fools, shine}
+{19085}{}{upon this condemned place. Satan's beast disguised}
+{19086}{}{as Mr. Flowers tried to stop me, but fire axe in my}
+{19087}{}{hands like a blazing sword of Archangel, hacked}
+{19088}{}{squealing satan's envoy to pieces. Oh yes, many of}
+{19089}{}{them died at my hand that day... There is no food}
+{19090}{}{left, but through the power of Our Lord I communed}
+{19091}{}{with their flesh and blood, and it was better than}
+{19092}{}{any wine... But Mary, what's most important, our}
+{19093}{}{child will soon join you! For some reason, she}
+{19094}{}{resisted stubbornly when I was squeezing the last}
+{19095}{}{breath from her mortal flesh... Maybe I should've}
+{19096}{}{cleaned blood from my clothes beforehand?}
+{19097}{}{}
+{19098}{}{}
+{19099}{}{}
+{19100}{}{Day VII}
+{19101}{}{}
+{19102}{}{I'm done here, but there's more poor souls that I}
+{19103}{}{need to send to the Pearly Gates... My flesh is}
+{19104}{}{changing under the influence of Our Lord, which}
+{19105}{}{causes some inconvenience... But I believe - it's}
+{19106}{}{for the best! Righteous men, rejoice! Faithless}
+{19107}{}{men, be frightened! As I'm coming for you...}
+{19108}{}{}
+{19109}{}{}
+{19110}{}{[Fragments of crime scene investigation reports]}
+{19111}{}{}
+{19112}{}{Examination started: 19 hour. 1...}
+{19113}{}{Examination ended...}
+{19114}{}{}
+{19115}{}{...Single storey brick building...}
+{19116}{}{Indoor dimensions: 6.5m X ... Man, Caucasian...}
+{19117}{}{Crucified upside down on the western wall... Left}
+{19118}{}{leg skinned partially... Many bite wounds in the}
+{19119}{}{face, neck and abdominal areas... Woman... Head}
+{19120}{}{missing... Based on the type of wound, probably}
+{19121}{}{ripped off...}
+{19122}{}{}
+{19123}{}{Examination...}
+{19124}{}{}
+{19125}{}{... Meadow to the north-west of...}
+{19126}{}{Stakes, about 2 meters in height... Placed in the}
+{19127}{}{shape of cross... Men and women... Impaled... Sex}
+{19128}{}{of some victims could not be identified due to}
+{19129}{}{numerous wounds and body parts missing...}
+{19130}{}{Inscriptions on intact skin fragments... Probably}
+{19131}{}{Latin...}
+{19132}{}{}
+{19133}{}{Evidence collected at the crime scene:}
+{19134}{}{1. Old crucifix...}
+{19135}{}{2. Leather-bound book...}
+{19136}{}{[ Surprisingly well-preserved post card of a not-}
+{19137}{}{so-dressed movie star... of a particular genre. The}
+{19138}{}{other side is covered with impeccable}
+{19139}{}{handwriting. ]}
+{19140}{}{}
+{19141}{}{Good day, Sheriff Crouch! Bringing to your}
+{19142}{}{attention that I, together with detective Hastings,}
+{19143}{}{am going for our John Doe. Case file records helped}
+{19144}{}{us establish his whereabouts, and also the fact}
+{19145}{}{that he probably will soon go hunting again; we}
+{19146}{}{decided not to wait for your search squad to return}
+{19147}{}{from the Rotten Crag. I'm assuming you will}
+{19148}{}{question loudly, "And why would a priest poke into}
+{19149}{}{this business?" (of course, you will express it}
+{19150}{}{less gently and not at all elegant). Well, what}
+{19151}{}{could I say... That poor man was once my bother in}
+{19152}{}{faith, quite eager in his duty to help those who}
+{19153}{}{suffer. And then he became the one who needed}
+{19154}{}{help... And although late in coming, I want to help}
+{19155}{}{him rest in peace.}
+{19156}{}{}
+{19157}{}{}
+{19158}{}{}
+{19159}{}{}
+{19160}{}{"He will wipe every tear from their eyes. There}
+{19161}{}{will be no more death or mourning or crying or}
+{19162}{}{pain, for the old order of things has passed away".}
+{19163}{}{}
+{19164}{}{                                  Pastor MacLaine}
+{19165}{}{}
+{19166}{}{P.S. And for the love of heaven - don't waste all}
+{19167}{}{the paper on cigarette roll-ups! Just imagine, if}
+{19168}{}{you would need to write a letter, probably the last}
+{19169}{}{one, on a picture of a sinful damsel (not that}
+{19170}{}{attractive too, I must say)! Though, knowing your}
+{19171}{}{taste, that would be the most preferable way for}
+{19172}{}{you. Therefore, if I will not return safely, my}
+{19173}{}{assistant will impose 10-year penance upon you. So}
+{19174}{}{it's in your best interest to pray for our success.}
+{19175}{}{**END-DISK**}
+
+# Commerscial
+# GVAR_HOLODISK_DILIZHANS_INFO -- GVAR_HOLODISK_ENCLAVE_WORD
+{20000}{}{}
+{20001}{}{Decided to make some money on the sale of beads and}
+{20002}{}{fire water to savage Cheyennes? Or wanted to start} 
+{20003}{}{a new life in Vegas because of problems with a}
+{20004}{}{(sheriff... everyone knows who I'm talking about)?}
+{20005}{}{But you are afraid to cross the wasteland because}
+{20006}{}{of the wild beast and raiders... Well, what can I}
+{20007}{}{say? You are right, our blessed land is not the}
+{20008}{}{best place for walking. But... Uncle Joe and the}
+{20009}{}{Nevada Express will protect your ass from}
+{20010}{}{infringements of non-humans of all growths and}
+{20011}{}{shades! Have 1000 bucks? That's enough! In}
+{20012}{}{addition, we are always ready to help a good person}
+{20013}{}{and reconsider the price!}
+{20014}{}{}
+{20015}{}{1. Who are you? What kind of stagecoach is this?}
+{20016}{}{}
+{20017}{}{We are a team of professionals in logistics and}
+{20018}{}{knocking the shit out of those who wish to harm our}
+{20019}{}{valued customers. We consider you as a potential}
+{20020}{}{member of our strong family!}
+{20021}{}{}
+{20022}{}{}
+{20023}{}{}
+{20024}{}{2. Hmm, is it safe?}
+{20025}{}{}
+{20026}{}{Come to any of our offices and appreciate the}
+{20027}{}{rigging and equipment of our guys! We can modestly}
+{20028}{}{add that if Jesus were going to go on a voyage in}
+{20029}{}{the Wasteland, he would have chosen the Nevada}
+{20030}{}{Express! Anyone would be crucified, but not him!}
+{20031}{}{}
+{20032}{}{3. And how long have you been in this bussines?}
+{20033}{}{}
+{20034}{}{Long enough for most of our competitors to turn to}
+{20035}{}{dust. As early as 2050 caravans of our founding}
+{20036}{}{fathers plowed through the expanses of the states.}
+{20037}{}{The scale of our market now is, certainly, not the}
+{20038}{}{best, but quality of given services has improved.}
+{20039}{}{}
+{20040}{}{4. About the scale, by the way. How far your}
+{20041}{}{caravans go?}
+{20042}{}{}
+{20043}{}{Our branches are in the sparkling Vegas, in the}
+{20044}{}{city of contrasts Reno, and in Salt Lake with its}
+{20045}{}{inimitable atmosphere of decadence. Our caravans go}
+{20046}{}{between them regularly and non-stop, like a clock.}
+{20047}{}{And if you ask nicely, then we will stop specially}
+{20048}{}{for you at the Wind of War with its warriors or}
+{20049}{}{near the settlement of the red skin Cheyenne.}
+{20050}{}{}
+{20051}{}{5. Hell yeah! But will I have enough money...}
+{20052}{}{}
+{20053}{}{We have the best democratic approach to our}
+{20054}{}{customers - 1000 bucks and you're ready to go! In}
+{20055}{}{addition, we never forget the services provided to}
+{20056}{}{us and provide a good discount to our friends.}
+{20057}{}{}
+{20058}{}{6. When do we start?}
+{20059}{}{}
+{20060}{}{We start on the 1st, 11th and 21st day of each}
+{20061}{}{month. Latecomers are not welcome, regardless of}
+{20062}{}{the reasons; stayed in a brothel or in a church -}
+{20063}{}{these are your problems.}
+{20064}{}{**END-PAR**}
+{20065}{}{**END-DISK**}
+
+# Elron Bible
+# GVAR_HOLODISK_ENCLAVE_ATOMIC
+{21000}{}{--EMPTY--}
+{21001}{}{}
+{21002}{}{**END-PAR**}
+{21003}{}{**END-DISK**}

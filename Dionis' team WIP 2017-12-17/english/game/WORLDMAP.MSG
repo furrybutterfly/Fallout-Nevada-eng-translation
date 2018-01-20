@@ -1,0 +1,1109 @@
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used by town and world map
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+
+# Vault 8
+{200}{}{Wasteland}
+{201}{}{Vault City}
+{202}{}{Vault Doors}
+{203}{}{Opal Mine}
+{204}{}{Vault 8}
+{205}{}{Laboratory}
+#
+# Wind of War
+{210}{}{Free Parking}
+{211}{}{Vault}
+{212}{}{Non-residential area}
+#
+# basa Sigma
+{220}{}{Error: empty}
+{221}{}{Error: empty}
+{222}{}{Error: empty}
+{223}{}{Error: empty}
+{224}{}{Îøèáêà: ïóñòî (Error: empty)}
+{225}{}{Îøèáêà: ïóñòî (Error: empty)}
+#
+# Cheyenne
+{230}{}{Tribal Camp}
+{231}{}{Raiders' Base}
+{232}{}{Plantations}
+{233}{}{Radio Station}
+#
+# Fake Vault 13 B
+{240}{}{Vault 15}
+#
+# Gecko
+{250}{}{Settlement}
+{251}{}{Power Plant}
+{252}{}{Junkyard}
+{253}{}{Error: empty}
+#
+# Ely
+{260}{}{Railway Junction}
+{261}{}{Residential}
+{262}{}{Temple}
+{263}{}{Weather Station}
+#
+# New Reno
+{270}{}{Hotel 'Silver'}
+{271}{}{Eldorado}
+{272}{}{Stadium}
+{273}{}{Railway Station}
+{274}{}{Luciano's Ranch}
+{275}{}{Boxing Arena}
+{276}{}{Assault Location}
+{277}{}{City Hall}
+{278}{}{Outdoor Cinema}
+{279}{}{Abandoned Farm}
+#
+# Zona 51
+{280}{}{Airplane Landing Area}
+{281}{}{Barracks}
+{282}{}{Hangar}
+#
+# Psifarme
+{290}{}{Bridgeport}
+#
+# New Vegas
+{300}{}{Caravans' Parking Place}
+{301}{}{Hoover Dam}
+{302}{}{Clean City}
+{303}{}{Cafe 'Hard Rock'}
+{304}{}{Slaves' Town}
+{305}{}{Dead Hotel}
+#
+# Provo
+{310}{}{Provo District}
+#
+# Howthorne
+{320}{}{Railway Station}
+{321}{}{Dead City}
+{322}{}{Garrison Territory}
+{323}{}{Hangar V9}
+{324}{}{Reactor Facilities}
+#
+# West Wendover
+{330}{}{Downtown}
+{331}{}{Workshop}
+{332}{}{Big Hangar}
+{333}{}{The Association}
+{334}{}{Hunting Lands}
+{335}{}{Ruins of Wendover}
+#
+# Salt Lake
+{340}{}{Business Centre}
+{341}{}{Renaissance Square}
+{342}{}{Railroad Depot}
+{343}{}{Waste-Water Canyon}
+{344}{}{Temple}
+{345}{}{Slums}
+{346}{}{Nuka-Cola Factory}
+#
+# Rubby
+{350}{}{Hut}
+#
+# Vault X
+{360}{}{Stop}
+{361}{}{Vault}
+{362}{}{Vault Enterance}
+{363}{}{Temporary Stop}
+{364}{}{Presidential Level}
+#
+# Artel Gerlach
+{370}{}{Settlement}
+{371}{}{Hunting Grounds}
+#
+# Uran-City
+{380}{}{Workers' Settlement}
+#
+# Vegas DrugSet
+{390}{}{The Pound}
+#
+# Buttle-Mauntin, Radar
+{400}{}{Main Street}
+{401}{}{Bikers' Camp}
+#
+# Car Out of Gas
+{410}{}{Car Outta Gas}
+#
+# Destroyed Vault City
+{420}{}{Destroyed City}
+#
+# ???
+{430}{}{Desert}
+#
+# Wind of War
+{440}{}{Chasing Patrol}
+#
+# Artel Black Rock
+{450}{}{Settlement}
+{451}{}{Black-Rock Caves}
+#
+# Random Encounter Desert
+{460}{}{Desert}
+{461}{}{Desert}
+{462}{}{Desert}
+{463}{}{Desert}
+{464}{}{Abandoned Camp}
+{465}{}{Abandoned Farm}
+{466}{}{Cactus Field}
+{467}{}{Black Forest}
+{468}{}{Black Forest}
+{469}{}{Black Forest}
+#
+# Random Encounter Mountain
+{470}{}{Mountain}
+{471}{}{Cavern}
+{472}{}{Mountain}
+{473}{}{Cavern}
+{474}{}{Cavern}
+{475}{}{Cavern}
+{476}{}{Cavern}
+{477}{}{Cavern}
+{478}{}{Mountain}
+{479}{}{Mountain}
+#
+# Random Encounter City
+{480}{}{Ruined City}
+{481}{}{Ruined City}
+{482}{}{Ruined City}
+{483}{}{Ruined City}
+{484}{}{Ruined City}
+{485}{}{Ruined City}
+{486}{}{Ruined City}
+{487}{}{Ruined City}
+{488}{}{Ruined City}
+#
+# Random Encounter Coast
+{490}{}{Coastline}
+{491}{}{Coastline}
+{492}{}{Coastline}
+{493}{}{Coastline}
+{494}{}{Coastline}
+{495}{}{Coastline}
+{496}{}{Coastline}
+{497}{}{Coastline}
+{498}{}{Coastline}
+{499}{}{Coastline}
+#
+# PepGaz
+{500}{}{Gas Station}
+#
+# Special Encounter: Roads
+{510}{}{Crossroads}
+#
+# Special Encounter: AnalDen
+{520}{}{Big Hole}
+#
+# Special Encounter: MinaPole
+{521}{}{Dump of Tires}
+#
+# Special Encounter: Crashed Federation Shuttle
+{530}{}{Tanker in the Desert}
+#
+# Special Encounter: Unwashed Villagers
+{540}{}{Desert}
+#
+# Special Encounter: Interplay Office
+{550}{}{Lost Office}
+#
+# Special Encounter: Cafe
+{560}{}{Cafe "New Hope"}
+#
+# Special Encounter: Big Egg
+{570}{}{Desert}
+#
+# Special Encounter: Bobby
+{580}{}{Desert}
+#
+# Special Encounter: HomeRoad
+{590}{}{House on Wheels}
+#
+# Special Encounter: AutobusOfKen
+{600}{}{'Next'}
+#
+# Rangers post
+{610}{}{Abandoned Ranger's Station}
+#
+# Special Encounter: Piknik
+{620}{}{Picnic Area}
+#
+# Caravan Encounters
+{630}{}{Desert}
+{631}{}{Mountain}
+#
+# Atomic
+{640}{}{"Dear John"}
+#
+# Harrelson
+{650}{}{Harrelson's Shelter}
+#
+# Shadow Areas (Those which fit nowhere else)
+{660}{}{Coastline}
+{661}{}{Coastline}
+{662}{}{Desert}
+{663}{}{Desert}
+{664}{}{Desert}
+{665}{}{Mountain}
+{666}{}{Mountain}
+{667}{}{Desert}
+{668}{}{Caravans' Parking Place}
+{669}{}{Frightening Silence}
+#
+# Environmental Protection Agency
+{670}{}{Road}
+
+
+
+#
+# Terrain type names for world map hover button
+#
+{1000}{}{Desert}
+{1001}{}{Mountains}
+{1002}{}{City}
+{1003}{}{Coast}
+{1004}{}{Unknown}  # Unknown/visited city
+
+
+# Misc messages
+{1500}{}{You gained 10,000 experience points!}
+{1501}{}{Ruins}
+{1502}{}{The car is out of power.}
+{1503}{}{This is a car.  It doesn't look like it's running.}
+
+
+#
+# Worldmap Encounter messages
+#
+
+{2998}{}{You encounter:}
+{2999}{}{Do you wish to encounter:}
+
+# Encounter Table 0
+{3000}{}{A party of raiders.}
+{3001}{}{Some radscorpions.}
+{3002}{}{Giant rats.}
+{3003}{}{A merchant party.}
+{3004}{}{<Special>}
+
+# Encounter Table 1
+{3050}{}{A party of raiders.}
+{3051}{}{A swarm of manti.}
+{3052}{}{A group of geckos.}
+{3053}{}{A group of mole rats.}
+{3054}{}{A group of radscorpions.}
+{3055}{}{A group of giant rats.}
+{3056}{}{A merchant party.}
+{3057}{}{<Special>}
+
+# Encounter Table 2
+{3100}{}{A party of raiders.}
+{3101}{}{A group of radscorpions.}
+{3102}{}{A group of giant rats.}
+{3103}{}{A merchant party.}
+{3104}{}{<Special>}
+
+# Encounter Table 3
+{3150}{}{A party of raiders.}
+
+# Encounter Table 4
+{3200}{}{A party of raiders.}
+
+# Encounter Table 5
+{3250}{}{A party of raiders.}
+
+# Encounter Table 6 -- VCTY_M (ãîðû âîêðóã Óáåæèùà 8)
+{3300}{}{Group of Silver Geckos.}
+{3301}{}{Family of Geckos.}
+{3302}{}{Group of Pests}
+{3303}{}{Small Group of Mole-Rats.}
+{3304}{}{Small Group of Radscorpions.}
+{3305}{}{Vault City Patrol}
+{3306}{}{Vault City Patrol Contra-attack Against Pack of Geckos.}
+{3307}{}{Vault City Patrol Fighting With Radscorpions.}
+
+# Encounter Table 7 -- VCTY_D (ãîðû âîêðóã Óáåæèùà 8)
+{3350}{}{Group of Silver Geckos.}
+{3351}{}{Family of Geckos.}
+{3352}{}{Group of Pests}
+{3353}{}{Small Group of Mole-Rats.}
+{3354}{}{Small Group of Radscorpions.}
+{3355}{}{Herd of Brahmins.}
+{3356}{}{Pack of Coyotes.}
+{3357}{}{Herd of Brahmins Fending Off Geckos' Attack}
+{3358}{}{Giant Egg.}
+
+# Encounter Table 8 -- BLRCK
+{3400}{}{Group of Silver Geckos.}
+{3401}{}{Group of Pests.}
+{3402}{}{Small Group of Mole-rats}
+{3403}{}{Small Group of Radscorpions.}
+{3404}{}{Herd of Wild Brahmins.}
+{3405}{}{Pack of Coyotes.}
+{3406}{}{Herd of Brahmins Fending Off Geckos' Attack}
+{3407}{}{Hunter of Desert Iguanas.}
+
+# Encounter Table 9 -- SGMA_M
+{3450}{}{Robots Cleaners}
+{3451}{}{Group of Pests.}
+{3452}{}{Small Group of Mole-Rats.}
+{3453}{}{Small Group of Pig-Rats.}
+{3454}{}{Small Group of Radscorpions.}
+{3455}{}{Herd of Wild Brahmins.}
+{3456}{}{Pack of Wolves.}
+{3457}{}{Cafe "New Hope"}
+{3458}{}{Crossroad.}
+{3459}{}{Big Hole}
+{3460}{}{Picnic Area}
+{3461}{}{House on Wheels}
+{3462}{}{"Next".}
+{3463}{}{Giant Egg.}
+
+# Encounter Table 10 -- SGMA_D
+{3500}{}{Group of Carnivorous Plants}
+{3501}{}{Group of Pests}
+{3502}{}{Small Group of Mole-Rats.}
+{3503}{}{Small Group of Pig-Rats.}
+{3504}{}{Small Group of Radscorpions.}
+{3505}{}{Herd of Wild Brahmins.}
+{3506}{}{Pack of Wolves.}
+{3507}{}{Hunters' Squad.}
+{3508}{}{Hunters' Squad Fighting With Radscorpions.}
+{3509}{}{Hunters' Squad Fighting With Mole-Rats.}
+{3510}{}{Hunters' Squad Repulsing Attack of Wolves' Pack.}
+{3511}{}{Defending Herd of Brahmins Attacked By Wolves.}
+{3512}{}{Legendary Radscorpion.}
+{3513}{}{Lost Office}
+{3514}{}{Crossroad.}
+{3515}{}{Cafe "New Hope"}
+{3516}{}{Big Hole}
+{3517}{}{Picnic Area}
+{3518}{}{House on Wheels}
+{3519}{}{"Next".}
+{3520}{}{Giant Egg.}
+{3521}{}{"Dear John"}
+{3522}{}{Pack of Coyotes.}
+{3523}{}{Water!}
+
+# Encounter Table 11 -- SGMA_T
+{3550}{}{Small Group of Radscorpions on the Road.}
+{3551}{}{Herd of Brahmins Crossing the Road.}
+{3552}{}{Pack of Wild Dogs Running Along the Road.}
+{3553}{}{Group of Fishermen Coming Back From Fishing.}
+{3554}{}{Group of Immigrants.}
+{3555}{}{Group of Farmers.}
+{3556}{}{Gang of Robbers Hiding In Ambush}
+{3557}{}{Gang of Raiders Hiding In Ambush}
+{3558}{}{Group of Hunters Fending Off Raiders' Attack}
+{3559}{}{Group of Hunters Fending Off Robbers' Attack}
+{3560}{}{Group of Hunters Fending Off Radscorpions' Attack}
+{3561}{}{Group of Farmers Fending Off Robbers' Attack}
+{3562}{}{Group of Farmers Fending Off Radscorpions' Attack}
+{3563}{}{Caravan Wandering Along the Road}
+{3564}{}{Crossroad.}
+{3565}{}{Lost Office}
+{3566}{}{Big Hole}
+{3567}{}{Cafe "New Hope"}
+{3568}{}{House on Wheels}
+{3569}{}{"Next".}
+{3570}{}{Hitchhiker.}
+{3571}{}{Resilent Bobby.}
+
+# Encounter Table 12 -- SALT_O
+{3600}{}{Group of Pests.}
+{3601}{}{Pack of Wild Dogs.}
+{3602}{}{Herd of Wild Brahmins.}
+{3603}{}{A group of acidic geckos.}
+{3604}{}{Hunters' Squad.}
+{3605}{}{Group of Hunters fighting against Pests}
+{3606}{}{Group of Hunters Fending Off Wild Dogs' Attack}
+{3607}{}{Group of Hunters Fending Off Bandits' Attack}
+{3608}{}{Group of Bandits}
+{3609}{}{Group of Bandits Fending Off Wild Dogs' Attack}
+{3610}{}{Escaped Convicts}
+{3611}{}{Punks from Salt Lake City}
+
+# Encounter Table 13 -- SALT_T
+{3650}{}{Small Group of Pests Stuck on the Road}
+{3651}{}{Small Group of Radscorpions on the Road}
+{3652}{}{Herd of Brahmins Wandering Along the Road}
+{3653}{}{Pack of Wild Dogs Running Along the Road.}
+{3654}{}{Group of Hunters Heading Back to the City.}
+{3655}{}{Group of Bandits Hiding In Ambush}
+{3656}{}{Group of Marauders Hiding In Ambush}
+{3657}{}{Group of Raiders Hiding In Ambush}
+{3658}{}{Group of Hunters Fending Off Marauders' Attack}
+{3659}{}{Group of Hunters Fending Off Raiders' Attack}
+{3660}{}{Group of Hunters Fending Off Robbers' Attack}
+{3661}{}{Group of Hunters Fending Off Radscorpions' Attack.}
+{3662}{}{Caravan Wandering Along the Road}
+{3663}{}{Crossroad.}
+{3664}{}{Lost Office}
+{3665}{}{Cafe "New Hope"}
+{3666}{}{House on Wheels}
+{3667}{}{"Next".}
+{3668}{}{Hitchhiker.}
+{3669}{}{Resilent Bobby.}
+{3670}{}{Bounty Hunters from Salt Lake City wanting to get bounty on your head}
+{3671}{}{Bounty Hunters from Salt Lake City wanting to get bounty on your head}
+{3672}{}{Bounty Hunters from Salt Lake City wanting to get bounty on your head}
+{3673}{}{Furious Mad Mister Assistant}
+{3674}{}{Accumulation of Cars on the Way to the City.}
+{3675}{}{Tough Bandit with a Jackhammer}
+{3676}{}{Escaped Convicts}
+{3677}{}{Punks from Salt Lake City.}
+{3678}{}{Nomads of the Great Basin)}
+
+# Encounter Table 14 -- RDRS_T
+{3700}{}{Small Group of pests stuck on the road}
+{3701}{}{Small Group of Geckos Suddenly Appeared on the Road}
+{3702}{}{Small Group of Radscorpions on the Road}
+{3703}{}{Herd of Brahmins Wandering Along the Road}
+{3704}{}{Pack of Wild Dogs Running Along the Road.}
+{3705}{}{Cheyennes Returning Back From the Hunt.}
+{3706}{}{Group of Immigrants.}
+{3707}{}{Group of Bandits Hiding In Ambush}
+{3708}{}{Big Louis' Raiders}
+{3709}{}{Big Louis' Raiders}
+{3710}{}{Group of Hunters Fending Off Robbers' Attack}
+{3711}{}{Group of Hunters Fending Off Bandits' Attack}
+{3712}{}{Caravan Wandering Along the Road}
+{3713}{}{Crossroad.}
+{3714}{}{Cafe "New Hope"}
+{3715}{}{House on Wheels}
+{3716}{}{"Next".}
+{3717}{}{Hitchhiker.}
+{3718}{}{Resilent Bobby.}
+
+# Encounter Table 15 -- RDRS_D
+{3750}{}{Group of Carnivorous Plants.}
+{3751}{}{Group of Silver Geckos.}
+{3752}{}{Family of Geckos.}
+{3753}{}{Group of Pests}
+{3754}{}{Small Group of Mole-Rats}
+{3755}{}{Small Group of Pig-Rats}
+{3756}{}{Small Group of Radscorpions}
+{3757}{}{Herd of Brahmins}
+{3758}{}{Wild Dogs.}
+{3759}{}{Cheyennes Returning Back From the Hunt.}
+{3760}{}{Group of Hunters.}
+{3761}{}{Group of Bandits}
+{3762}{}{Big Louis' Raiders}
+{3763}{}{Big Louis' Raiders}
+{3764}{}{Group of Hunters Fighting With Radscorpions}
+{3765}{}{Group of Hunters Fighting With Wolves}
+{3766}{}{Group of Hunters Fighting With Raiders}
+{3767}{}{Group of Hunters Fighting With Bandits}
+{3768}{}{Crossroad.}
+{3769}{}{Cafe "New Hope"}
+{3770}{}{Lost Office}
+{3771}{}{Big Hole}
+{3772}{}{Picnic Area}
+{3773}{}{House on Wheels}
+{3774}{}{"Next".}
+{3775}{}{Giant Egg.}
+{3776}{}{Hitchhiker.}
+{3777}{}{Resilent Bobby.}
+{3778}{}{"Dear John"}
+
+# Encounter Table 16 -- RDRS_M
+{3800}{}{Group of Carnivorous Plants.}
+{3801}{}{Group of Silver Geckos.}
+{3802}{}{Family of Geckos.}
+{3803}{}{Group of Pests}
+{3804}{}{Small Group of Mole-Rats}
+{3805}{}{Small Group of Radscorpions}
+{3806}{}{Herd of Brahmins}
+{3807}{}{Pack of Wolves.}
+{3808}{}{Cheyennes Returning Back From the Hunt.}
+{3809}{}{Group of Hunters.}
+{3810}{}{Big Louis' Raiders}
+{3811}{}{Big Louis' Raiders}
+{3812}{}{Group of Hunters Fighting With Radscorpions}
+{3813}{}{Group of Hunters Fending Off Wolves' Attack}
+{3814}{}{Group of Hunters Fighting With Raiders}
+{3815}{}{Group of Cheyennes Fending Off Wolves' Attack}
+{3816}{}{Cafe "New Hope"}
+{3817}{}{Big Hole}
+{3818}{}{Picnic Area}
+{3819}{}{House on Wheels}
+{3820}{}{"Next".}
+{3821}{}{Giant Egg.}
+{3822}{}{"Dear John"}
+
+# Encounter Table 17 -- RINO_T
+{3850}{}{Pack of Wild Dogs Running Along the Road.}
+{3851}{}{Small Group of Radscorpions on the Road}
+{3852}{}{Small Group of Pests stuck on the road}
+{3853}{}{Herd of Brahmins Wandering Along the Road}
+{3854}{}{Group of Slavers With Their Slaves}
+{3855}{}{Group of Slavers Attempting to Enslave a Few People}
+{3856}{}{Gang of Slavers and few Dogs}
+{3857}{}{City Gang}
+{3858}{}{Gang of Robbers Hiding In Ambush}
+{3859}{}{Gang of Raiders Hiding In Ambush}
+{3860}{}{Group of Marauders Hiding In Ambush}
+{3861}{}{Caravan Wandering Òhrough the Ruins.}
+{3862}{}{Hitchhiker.}
+{3863}{}{Bounty Hunters from New Reno wanting to get bounty on your head}
+{3864}{}{Bounty Hunters from New Reno wanting to get bounty on your head}
+{3865}{}{Bounty Hunters from New Reno wanting to get bounty on your head}
+{3866}{}{Robbers Waiting for Lonely Travelers}
+
+# Encounter Table 18 -- RED_D
+{3900}{}{Group of Carnivorous Plants.}
+{3901}{}{Group of Silver Geckos.}
+{3902}{}{Family of Geckos.}
+{3903}{}{Group of Golden Geckos.}
+{3904}{}{Group of Pests}
+{3905}{}{Small Group of Mole-Rats}
+{3906}{}{Small Group of Pig-Rats}
+{3907}{}{Small Group of Radscorpions}
+{3908}{}{Pack of Wolves.}
+{3909}{}{Nightshade Shrub Guarded by Ants.}
+{3910}{}{Crossroad.}
+{3911}{}{Big Hole}
+{3912}{}{"Dear John"}
+{3913}{}{Picnic Area}
+{3914}{}{House on Wheels}
+{3915}{}{"Next".}
+{3916}{}{Giant Egg.}
+{3917}{}{Resilent Bobby.}
+
+# Encounter Table 19 -- RED_M
+{3950}{}{Group of Carnivorous Plants.}
+{3951}{}{Group of Silver Geckos.}
+{3952}{}{Family of Geckos.}
+{3953}{}{Group of Golden Geckos.}
+{3954}{}{Group of Pests}
+{3955}{}{Small Group of Mole-Rats}
+{3956}{}{Small Group of Pig-Rats}
+{3957}{}{Pack of Wolves.}
+{3958}{}{Nightshade Shrub Guarded by Ants.}
+{3959}{}{Body under the Landslide}
+{3960}{}{Big Hole}
+{3961}{}{Picnic Area}
+{3962}{}{"Dear John"}
+{3963}{}{"Next".}
+{3964}{}{Giant Egg.}
+{3965}{}{Abandoned Nevada Rangers' Post}
+
+# Encounter Table 20 -- SALTk_D
+{4000}{}{A Group of Acidic Geckos.}
+{4001}{}{Group of Pests}
+{4002}{}{Small Group of Mole-Rats}
+{4003}{}{Small Group of Pig-Rats}
+{4004}{}{Small Group of Radscorpions}
+{4005}{}{Herd of Brahmins.}
+{4006}{}{Pack of Wild Dogs.}
+{4007}{}{Group of Hunters.}
+{4008}{}{Gang of Raiders.}
+{4009}{}{Group of Bandits.}
+{4010}{}{Group of Bandits Dividing Loot With Raiders.}
+{4011}{}{Group of Hunters Fending Off Raiders' Attack}
+{4012}{}{Group of Hunters Fending Off Bandits' Attack}
+{4013}{}{Tanker in the Desert.}
+{4014}{}{Big Hole}
+{4015}{}{Hitchhiker.}
+{4016}{}{Escaped Convicts}
+{4017}{}{Punks from Salt Lake City}
+{4018}{}{Filter Hunters}
+
+# Encounter Table 21 -- VGSLT_T
+{4050}{}{Small Group of Pests stuck on the road}
+{4051}{}{Small Group of Radscorpions on the Road}
+{4052}{}{Herd of Brahmins Wandering Along the Road}
+{4053}{}{Pack of Wild Dogs Running Along the Road.}
+{4054}{}{Group of Hunters Returning Back to the City.}
+{4055}{}{Group of Bandits Hiding In Ambush}
+{4056}{}{Group of Immigrants.}
+{4057}{}{Gang of Robbers Hiding In Ambush}
+{4058}{}{Gang of Raiders Hiding In Ambush}
+{4059}{}{Group of Hunters Fending Off Raiders' Attack}
+{4060}{}{Group of Hunters Fending Off Robbers' Attack}
+{4061}{}{Caravan Wandering Along the Road}
+{4062}{}{Local People Entered the Path of Plundering}
+{4063}{}{Crossroad.}
+{4064}{}{Lost Office}
+{4065}{}{Cafe "New Hope"}
+{4066}{}{House on Wheels}
+{4067}{}{"Next".}
+{4068}{}{Hitchhiker.}
+{4069}{}{Resilent Bobby.}
+{4070}{}{Lynch Execution}
+{4071}{}{Filter Hunters}
+{4072}{}{Nomads of the Great Basin}
+
+# Encounter Table 22 -- RINO_D
+{4100}{}{Group of Carnivorous Plants.}
+{4101}{}{Victims of the Apocalypse}
+{4102}{}{Group of Pests}
+{4103}{}{Small Group of Mole-Rats}
+{4104}{}{Small Group of Pig-Rats}
+{4105}{}{Small Group of Radscorpions}
+{4106}{}{Herd of Brahmins.}
+{4107}{}{Wild Angry Brahmin.}
+{4108}{}{Group of Hunters.}
+{4109}{}{Gang of Raiders.}
+{4110}{}{Group of Hunters Fending Off Raiders' Attack}
+{4111}{}{Cafe "New Hope"}
+{4112}{}{Lost Office}
+{4113}{}{Big Hole}
+{4114}{}{Crossroad.}
+{4115}{}{Hitchhiker.}
+{4116}{}{Picnic Area}
+{4117}{}{House on Wheels}
+{4118}{}{"Next".}
+{4119}{}{Giant Egg.}
+{4120}{}{Resilent Bobby.}
+{4121}{}{"Dear John"}
+
+# Encounter Table 23 -- South_D
+{4150}{}{Small Group of Mole-Rats}
+{4151}{}{Small Group of Radscorpions}
+{4152}{}{Pack of Coyotes.}
+{4153}{}{Family of Deathclaws.}
+{4154}{}{Cafe "New Hope"}
+{4155}{}{Lost Office}
+{4156}{}{Big Hole}
+{4157}{}{Crossroad.}
+{4158}{}{Picnic Area}
+{4159}{}{House on Wheels}
+{4160}{}{"Next".}
+{4161}{}{Giant Egg.}
+{4162}{}{Hardy's Caravan}
+{4163}{}{"Dear John"}
+{4164}{}{Water!}
+{4165}{}{Drying Spring and Mole-Rats}
+{4166}{}{Drying Spring and Radscorpions}
+{4167}{}{Drying Spring and Carnivorous Plants}
+{4168}{}{Drying Spring and Swarm of Mantises}
+{4169}{}{Swarm of Mantises}
+
+# Encounter Table 24 -- South_M
+{4200}{}{Group of Carnivorous Plants.}
+{4201}{}{Swarm of Mantises}
+{4202}{}{Group of Golden Geckos.}
+{4203}{}{Family of Geckos.}
+{4204}{}{Group of pests}
+{4205}{}{Small Group of Mole-Rats}
+{4206}{}{Small Group of Pig-Rats}
+{4207}{}{Small Group of Radscorpions}
+{4208}{}{Herd of Brahmins.}
+{4209}{}{Pack of Wolves.}
+{4210}{}{Coyote Hunters Hunting Down the Prey.}
+{4211}{}{Leader of the Coyote Tribe.}
+{4212}{}{Cafe "New Hope"}
+{4213}{}{Big Hole}
+{4214}{}{Crossroad.}
+{4215}{}{Picnic Area}
+{4216}{}{"Next".}
+{4217}{}{Giant Egg.}
+{4218}{}{Resilent Bobby.}
+{4219}{}{"Dear John)}
+{4220}{}{Tribe of Cannibals During Eating Time.}
+
+# Encounter Table 25 -- Wind_T
+{4250}{}{Small Group of Pests Stuck on the Road}
+{4251}{}{Small Group of Mole-Rats Stuck on the Road}
+{4252}{}{Small Group of Pig-Rats Living on the Road}
+{4253}{}{Small Group of Aliens That Accidentally Appeared Into This Region.}
+{4254}{}{Group of Silver Geckos Suddenly Appeared on the Road.}
+{4255}{}{Pack of Geckos Suddenly Appeared on the Road.}
+{4256}{}{Group of Golden Geckos Suddenly Appeared on the Road.}
+{4257}{}{Swarm of Mantises Migrating Along the Road}
+{4258}{}{Small Group of Radscorpions on the Road}
+{4259}{}{Herd of Brahmins Wandering Along the Road}
+{4260}{}{Pack of Wild Dogs Running Along the Road.}
+{4261}{}{Group of Slavers With Their Slaves}
+{4262}{}{Group of Slavers Attempting to Enslave a Few People}
+{4263}{}{Gang of Slavers and Few Dogs}
+{4264}{}{Group of Hunters Coming Back to the City.}
+{4265}{}{Group of Bandits Hiding In Ambush}
+{4266}{}{Group of Immigrants.}
+{4267}{}{Group of Farmers Wandering on the Road}
+{4268}{}{Gang of Robbers Hiding In Ambush}
+{4269}{}{Gang of Raiders Hiding In Ambush}
+{4270}{}{Group of Marauders Hiding In Ambush}
+{4271}{}{Group of Hunters Fending Off Marauders Attack}
+{4272}{}{Group of Hunters Fending Off Raiders' Attack}
+{4273}{}{Group of Hunters Fending Off Robbers' Attack}
+{4274}{}{Group of Farmers Fending Off Marauders Attack}
+{4275}{}{Group of Farmers Fending Off Raiders' Attack}
+{4276}{}{Group of Farmers Fending Off Robbers' Attack}
+{4277}{}{Group of Farmers Fending Off Radscorpions' Attack}
+{4278}{}{Caravan Wandering Along the Road}
+{4279}{}{Super 8.}
+{4280}{}{Crossroad.}
+{4281}{}{Lost Office}
+{4282}{}{Cafe "New Hope"}
+{4283}{}{House on Wheels}
+{4284}{}{Resilent Bobby.}
+{4285}{}{Desperate Newbie That is Trying to Fend Off Raiders' Attack}
+
+# Encounter Table 26 -- Wind_D
+{4300}{}{Group of Carnivorous Plants.}
+{4301}{}{Group of Aliens}
+{4302}{}{Swarm of Mantises}
+{4303}{}{Group of Golden Geckos.}
+{4304}{}{Family of Geckos.}
+{4305}{}{Group of Pests}
+{4306}{}{Small Group of Mole-Rats}
+{4307}{}{Small Group of Radscorpions}
+{4308}{}{Herd of Brahmins.}
+{4309}{}{Pack of Wild Dogs.}
+{4310}{}{Group of Slavers With Their Slaves}
+{4311}{}{Group of Slavers Attempting to Enslave a Few People}
+{4312}{}{Gang of Slavers and Few of Dogs}
+{4313}{}{Group of Hunters.}
+{4314}{}{Gang of Bandits.}
+{4315}{}{Gang of Raiders.}
+{4316}{}{Group of Hunters Fending Off Raiders' Attack}
+{4317}{}{Group of Hunters Fending Off Bandits' Attack}
+{4318}{}{Group of Hunters Fending Off Wild Dogs' Attack}
+{4319}{}{Group of Hunters Fending Off Radscorpions' Attack}
+{4320}{}{Group of Hunters Fending Off Gecko Attack}
+{4321}{}{Group of Hunters Fending Off Mantises' Attack}
+{4322}{}{Group of Hunters Fending Off Aliens' Attack}
+{4323}{}{Group of Bandits Fending Off Aliens' Attack}
+{4324}{}{Gang of Raiders Fending Off Aliens' Attack}
+{4325}{}{Super 8.}
+{4326}{}{Crossroad.}
+{4327}{}{Big Hole}
+{4328}{}{Cafe "New Hope"}
+{4329}{}{Picnic Area}
+{4330}{}{House on Wheels}
+{4331}{}{"Next".}
+{4332}{}{Giant Egg.}
+{4333}{}{Resilent Bobby.}
+{4334}{}{"Dear John"}
+{4335}{}{Desperate Newbie That is Trying to Fend Off Raiders' Attack}
+
+# Encounter Table 27 -- Wind_M
+{4350}{}{Group of Carnivorous Plants.}
+{4351}{}{Swarm of Mantises}
+{4352}{}{Group of Golden Geckos.}
+{4353}{}{Family of Geckos.}
+{4354}{}{Group of Pests}
+{4355}{}{Small Group of Mole-Rats}
+{4356}{}{Small Group of Radscorpions}
+{4357}{}{Herd of Brahmins.}
+{4358}{}{Pack of Wolves.}
+{4359}{}{Group of Hunters.}
+{4360}{}{Super 8.}
+{4361}{}{Big Hole}
+{4362}{}{Cafe "New Hope"}
+{4363}{}{Picnic Area.}
+{4364}{}{House on Wheels}
+{4365}{}{"Next".}
+{4366}{}{Giant Egg.}
+{4367}{}{Resilent Bobby.}
+{4368}{}{"Dear John"}
+{4369}{}{Desperate Newbie That is Trying to Fend Off Raiders' Attack}
+
+# Encounter Table 28 -- Zona_D
+{4400}{}{Group of Aliens}
+{4401}{}{Family of Geckos.}
+{4402}{}{Group of Golden Geckos.}
+{4403}{}{Small Group of Radscorpions}
+{4404}{}{Big Hole}
+
+# Encounter Table 29 -- VGSX_T
+{4450}{}{Small Group of Pests Stuck on the Road}
+{4451}{}{Small Group of Radscorpions on the Road}
+{4452}{}{Herd of Brahmins Wandering Along the Road}
+{4453}{}{Caravan Wandering Along the Road}
+{4454}{}{Local People Entered the Path of Plundering}
+{4455}{}{One of the Bloom Brothers}
+{4456}{}{Crossroad.}
+{4457}{}{Lost Office}
+{4458}{}{Cafe "New Hope"}
+{4459}{}{House on Wheels}
+{4460}{}{"Next".}
+{4461}{}{Hitchhiker.}
+{4462}{}{Resilent Bobby.}
+{4463}{}{Lynch Execution}
+{4464}{}{Filter Hunters}
+{4465}{}{Nomads of the Great Basin}
+
+# Encounter Table 30 -- VEGS_T
+{4500}{}{Small Group of Pests Stuck on the Road}
+{4501}{}{Swarm of Mantises Migrating Along the Road}
+{4502}{}{Group of Silver Geckos Suddenly Appeared on the Road.}
+{4503}{}{Small Group of Radscorpions on the Road}
+{4504}{}{Herd of Brahmins Wandering Along the Road}
+{4505}{}{Pack of Wild Dogs Running Along the Road.}
+{4506}{}{Group of Slavers With Their Slaves}
+{4507}{}{Group of Slavers Attempting to Enslave a Few People}
+{4508}{}{Gang of Slavers and Couple of Dogs}
+{4509}{}{Group of Bandits Hiding In Ambush}
+{4510}{}{Group of Farmers Wandering on the Road}
+{4511}{}{Gang of Robbers Hiding In Ambush}
+{4512}{}{Gang of Raiders Hiding In Ambush}
+{4513}{}{Group of Farmers Fending Off Marauders Attack}
+{4514}{}{Group of Farmers Fending Off Raiders' Attack}
+{4515}{}{Group of Farmers Fending Off Robbers' Attack}
+{4516}{}{Group of Farmers Fending Off Radscorpions' Attack}
+{4517}{}{Caravan Wandering Through the Ruins}
+{4518}{}{Crossroad.}
+{4519}{}{Lost Office}
+{4520}{}{Big Hole}
+{4521}{}{Cafe "New Hope"}
+{4522}{}{House on Wheels}
+{4523}{}{"Next".}
+{4524}{}{Resilent Bobby.}
+{4525}{}{Bounty Hunters from Las Vegas wanting to get bounty on your head}
+{4526}{}{Bounty Hunters from Las Vegas wanting to get bounty on your head}
+{4527}{}{Bounty Hunters from Las Vegas wanting to get bounty on your head}
+{4528}{}{Wild Agent from Patrol Agency}
+{4529}{}{Neon Gangster and His Gang}
+{4530}{}{Filter Hunters}
+{4531}{}{Kings Gang}
+{4532}{}{Desperate Redneck}
+{4533}{}{Pervert With His Sex Slave}
+{4534}{}{Two Members of Kings' Gang Trying to Bury a Body.}
+
+# Encounter Table 31 -- VEGS_D
+{4550}{}{Group of Carnivorous Plants.}
+{4551}{}{Swarm of Mantises}
+{4552}{}{Group of Silver Geckos.}
+{4553}{}{Family of Geckos.}
+{4554}{}{Group of Pests}
+{4555}{}{Small Group of Mole-Rats}
+{4556}{}{Small Group of Pig-Rats}
+{4557}{}{Small Group of Radscorpions}
+{4558}{}{Herd of Brahmins.}
+{4559}{}{Pack of Coyotes.}
+{4560}{}{Pack of Wolves.}
+{4561}{}{Group of Slavers With Their Slaves}
+{4562}{}{Group of Slavers Attempting to Enslave a Few People}
+{4563}{}{Gang of Slavers and Couple of Dogs}
+{4564}{}{Group of Hunters.}
+{4565}{}{Gang of Raiders.}
+{4566}{}{Gang of Raiders Attacking Hunters.}
+{4567}{}{Gang of Raiders Fending Off Radscorpions' Attack}
+{4568}{}{Gang of Raiders Fending Off Pests Attack}
+{4569}{}{Group of Hunters Fending Off Mantises' Attack}
+{4570}{}{Group of Hunters Fending Off Radscorpions' Attack}
+{4571}{}{Group of Hunters Fending Off Pests Attack}
+{4572}{}{Raiders and Bandits Dividing a Loot}
+{4573}{}{Crossroad.}
+{4574}{}{Big Hole}
+{4575}{}{Cafe "New Hope"}
+{4576}{}{Picnic Area}
+{4577}{}{House on Wheels}
+{4578}{}{"Next".}
+{4579}{}{Giant Egg.}
+{4580}{}{Resilent Bobby.}
+{4581}{}{"Dear John"}
+{4582}{}{Lynch Execution}
+{4583}{}{Filter Hunters}
+
+# Encounter Table 32 -- VEGS_M
+{4600}{}{Group of Carnivorous Plants.}
+{4601}{}{Group of Silver Geckos.}
+{4602}{}{Family of Geckos.}
+{4603}{}{Group of Golden Geckos.}
+{4604}{}{Group of Pests}
+{4605}{}{Small Group of Mole-Rats}
+{4606}{}{Small Group of Pig-Rats}
+{4607}{}{Small Group of Radscorpions}
+{4608}{}{Pack of Wolves.}
+{4609}{}{Group of Hunters.}
+{4610}{}{Group of Hunters Fending Off Bandits' Attack}
+{4611}{}{Group of Hunters Hunting Small Animals.}
+{4612}{}{Group of Hunters Hunting Small Animals}
+{4613}{}{Big Hole}
+{4614}{}{Cafe "New Hope"}
+{4615}{}{Picnic Area}
+{4616}{}{House on Wheels}
+{4617}{}{"Next".}
+{4618}{}{Giant Egg.}
+{4619}{}{"Dear John"}
+
+# Encounter Table 33 -- VEGS_J
+{4650}{}{Group of Pests}
+{4651}{}{Dump of Tires}
+
+# Encounter Table 34 -- SALT_Z
+{4700}{}{Frightening Silence}
+
+# Encounter Table 35 -- RINW_T
+{4750}{}{Pack of Coyotes Spying Along the Road.}
+{4751}{}{Small Group of Radscorpions on the Road}
+{4752}{}{Small Group of Pests Stuck on the Road}
+{4753}{}{Herd of Brahmins Wandering Along the Road}
+{4754}{}{Local People Entered the Path of Plundering}
+{4755}{}{Group of Slavers With Their Slaves}
+{4756}{}{Group of Slavers Attempting to Enslave a Few People}
+{4757}{}{Gang of Slavers and Couple of Dogs}
+{4758}{}{Group of Bandits Hiding In Ambush}
+{4759}{}{Gang of Robbers Hiding In Ambush}
+{4760}{}{Gang of Raiders Hiding In Ambush}
+{4761}{}{Group of Marauders Hiding In Ambush}
+{4762}{}{Caravan Wandering Through the Ruins}
+{4763}{}{Crossroad.}
+{4764}{}{Lost Office}
+{4765}{}{Big Hole}
+{4766}{}{Cafe "New Hope"}
+{4767}{}{House on Wheels}
+{4768}{}{"Next".}
+{4769}{}{Hitchhiker.}
+{4770}{}{Resilent Bobby.}
+
+# Encounter Table 36 -- South_MD
+{4800}{}{Group of Carnivorous Plants.}
+{4801}{}{Swarm of Mantises}
+{4802}{}{Group of Golden Geckos.}
+{4803}{}{Family of Geckos.}
+{4804}{}{Group of pests}
+{4805}{}{Small Group of Mole-Rats}
+{4806}{}{Small Group of Pig-Rats}
+{4807}{}{Small Group of Radscorpions}
+{4808}{}{Herd of Brahmins.}
+{4809}{}{Flock/Clan/Pack of Wolves.}
+{4810}{}{Cafe "New Hope"}
+{4811}{}{Lost Office}
+{4812}{}{Big Hole}
+{4813}{}{Crossroad.}
+{4814}{}{Picnic Area}
+{4815}{}{"Next".}
+{4816}{}{Giant Egg.}
+{4817}{}{Resilent Bobby.}
+{4818}{}{"Dear John"}
+
+# Encounter Table 37 -- BLCK_B
+{4850}{}{Group of Silver Geckos.}
+{4851}{}{Group of pests}
+{4852}{}{Small Group of Mole-Rats}
+{4853}{}{Small Group of Radscorpions}
+{4854}{}{Herd of Wild Brahmins}
+{4855}{}{Pack of Coyotes.}
+{4856}{}{Defending Herd of Brahmins Attacked By Geckos}
+{4857}{}{House on Wheels}
+{4858}{}{Giant Egg.}
+{4859}{}{"Dear John"}
+{4860}{}{Wild Angry Brahmin.}
+
+# Encounter Table 38 -- HTRN_D
+{4900}{}{Group of Pests}
+{4901}{}{Small Group of Pig-Rats}
+{4902}{}{Small Group of Mole-Rats}
+{4903}{}{Pack of Coyotes.}
+{4904}{}{Several Desperate Marauders}
+{4905}{}{Hitchhiker.}
+
+# Encounter Table 39
+{4950}{}{Group of Scared Pests}
+  
+# Encounter Table 40
+{5000}{}{}
+
+# Encounter Table 41
+{5050}{}{}
+
+# Encounter Table 42
+{5100}{}{}
+
+# Encounter Table 43
+{5150}{}{}
+
+# Encounter Table 44
+{5200}{}{}
+
+# Encounter Table 45
+{5250}{}{}
+
+# Encounter Table 46
+{5300}{}{}
+
+# Encounter Table 47
+{5350}{}{}
+
+# Encounter Table 48
+{5400}{}{}
+
+# Encounter Table 49
+{5450}{}{}
+
+# Encounter Table 50
+{5500}{}{}
+
+# Encounter Table 51
+{5550}{}{}
+
+# Encounter Table 52
+{5600}{}{}
+
+# Encounter Table 53
+{5650}{}{}
+
+# Encounter Table 54
+{5700}{}{}
+
+# Encounter Table 55
+{5750}{}{}
+
+# Encounter Table 56
+{5800}{}{}
+
+# Encounter Table 57
+{5850}{}{}
+
+# Encounter Table 58
+{5900}{}{}
+
+# Encounter Table 59
+{5950}{}{}
+
+# Encounter Table 60
+{6000}{}{}
+
+# Encounter Table 61
+{6050}{}{}
+
+# Encounter Table 62
+{6100}{}{}
+
+# Encounter Table 63
+{6150}{}{}
+
+# Encounter Table 64
+{6200}{}{}
+
+# Encounter Table 65
+{6250}{}{}
+
+# Encounter Table 66
+{6300}{}{}
+
+# Encounter Table 67
+{6350}{}{}
+
+# Encounter Table 68
+{6400}{}{}
+
+# Encounter Table 69
+{6450}{}{}
+
+# Encounter Table 70
+{6500}{}{}
+
+# Encounter Table 71
+{6550}{}{}
+
+# Encounter Table 72
+{6600}{}{}
+
+# Encounter Table 73
+{6650}{}{}
+
+# Encounter Table 74
+{6700}{}{}
+
+# Encounter Table 75
+{6750}{}{}
