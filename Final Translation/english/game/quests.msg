@@ -85,7 +85,7 @@
 {403}{}{Ogima requests to fix the water tank}
 {404}{}{Clear plantation of carnivorous plants}
 {405}{}{"Help" Mold, the drug addict}
-{406}{}{Return to Niskigvang his belongings, taken away by a raider named Furiouser}
+{406}{}{Return to Niskigvan his belongings, taken away by a raider named Furiouser}
 {407}{}{Acabidab asks to find Gizhiyash in New Reno}
 {408}{}{Find a way to cure poor Makkons}
 

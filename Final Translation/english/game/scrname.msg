@@ -764,7 +764,7 @@
 {864}{}{}
 {865}{}{Apothecary}
 {866}{}{Hubologist}                
-{867}{}{Crazy}                     
+{867}{}{Psycho}                     
 {868}{}{Invader}              
 {869}{}{Cannibal}
 {870}{}{Coyote Hunter}
@@ -854,7 +854,7 @@
 {954}{}{Conductor}
 {955}{}{Gilmore}
 {956}{}{Skinner}
-{957}{}{Collector of Souls}
+{957}{}{Reaper of Souls}
 {958}{}{President's head}
 {959}{}{}
 {960}{}{}
@@ -908,7 +908,7 @@
 {1008}{}{Policeman}
 {1009}{}{Guard}
 {1010}{}{Console}
-{1011}{}{Collector of Souls}
+{1011}{}{Reaper of Souls}
 {1012}{}{Caravan merchant}
 {1013}{}{Map}
 {1014}{}{Clone}
@@ -1184,7 +1184,7 @@
 {1284}{}{Lamp}
 {1285}{}{Message}
 {1286}{}{Typhon}
-{1287}{}{Collector of Souls}
+{1287}{}{Reaper of Souls}
 {1288}{}{}
 {1289}{}{Locker}                       
 {1290}{}{Well}                         
