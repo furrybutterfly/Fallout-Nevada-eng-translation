@@ -11,7 +11,7 @@
 Форсажник - Furius? Furiouser? Furymaker? //что-то надо решить, пока везде Fury
 Страйкер (персонаж) - Stryker
 Страйкер (пушка) - Striker
-Оливер Лучиано - Oliver Lucciano //Или Lucciano? По своим, особенным причинам, вариант Lucciano нравится мне больше
+Оливер Лучиано - Oliver Lucciano //Или Luciano? По своим, особенным причинам, вариант Lucciano нравится мне больше
 Доктор Вилмут - dr. Willmouth
 Дилижанс - Carriage
 Большой Луи - Big Louie
@@ -42,6 +42,7 @@ Beiyang Military Medical Center - Бэйянский военно-медицин
 антикурильщик - anti-smoker
 обезболивающее - painkillers
 червь - ringworm
+Земляной дракон - earth dragon
 Караванщик - caravan merchant
 Металлоискатель - metal detector
 Андерс - Anders
