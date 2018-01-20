@@ -17,7 +17,7 @@
 {105}{}{Complete the warehouse's special assignment}
 {106}{}{Bring Sam a porn magazine}
 {107}{}{Find the missing robot scout}
-{108}{}{Decipher deputy Sherriff’s disk}
+{108}{}{Decipher deputy Sheriff’s disk}
 {109}{}{Learn more about Jerlac's community}
 {110}{}{Destroy Jerlac's community}
 {111}{}{Spy on a "suspicious citizens" couple}
@@ -50,7 +50,7 @@
 {203}{}{Robert and Jessica want to run away from the settlement}
 {204}{}{Find memorial information in Hawthorne}
 {205}{}{Punish the soldiers, that beat the caravan merchant}
-{206}{}{Find survivors from the "Speed Hawk" caravan}
+{206}{}{Find survivors from the "Hawk Express" caravan}
 {207}{}{Copy radio frequencies for the spy or tell about him to the Military}
 {208}{}{Investigate the incident at the post and report to Wesker}
 {209}{}{Regain the farmer's trust}
@@ -81,7 +81,7 @@
 
 {400}{}{Destroy raiders terrorizing the Cheyenne tribe}
 {401}{}{Neutralize Big Louie}
-{402}{}{Win Makozeed in a fistfight}
+{402}{}{Defeat Makozid in a fistfight}
 {403}{}{Ogima requests to fix the water tank}
 {404}{}{Clear plantation of carnivorous plants}
 {405}{}{"Help" Mold, the drug addict}
@@ -184,18 +184,18 @@
 {821}{}{Wright: fulfill the C-4 delivery}
 {822}{}{Wright: recapture the mine from competitors}
 {823}{}{Wright: hunt down a strange guy in the slums}
-{824}{}{Wright: have a meeting with Oliver Luciano}
+{824}{}{Wright: have a meeting with Oliver Lucciano}
 {825}{}{Bertolini: meet with the informant at the ranch}
 {826}{}{Bertolini: set the restaurant against the ranch}
-{827}{}{Bertolini: put Luciano out of business without killing him}
-{828}{}{Bertolini: offer assistance to Luciano}
+{827}{}{Bertolini: put Lucciano out of business without killing him}
+{828}{}{Bertolini: offer assistance to Lucciano}
 {829}{}{Bertolini: follow Huey}
-{830}{}{Luciano: help Johnny Chase}
-{831}{}{Luciano: frame "Eldorado" casino}
-{832}{}{Luciano: frame "Eldorado" casino (2)}
-{833}{}{Luciano: steal a briefcase with money from Bertolini}
-{834}{}{Luciano: provoke a conflict between gangsters}
-{835}{}{Luciano: make a secret deal in the outskirts of the city}
+{830}{}{Lucciano: help Johnny Chase}
+{831}{}{Lucciano: frame "Eldorado" casino}
+{832}{}{Lucciano: frame "Eldorado" casino (2)}
+{833}{}{Lucciano: steal a briefcase with money from Bertolini}
+{834}{}{Lucciano: provoke a conflict between gangsters}
+{835}{}{Lucciano: make a secret deal in the outskirts of the city}
 {836}{}{Stryker: eliminate Patrick the Mormon}
 {837}{}{Stryker: get chemicals from dealer}
 {838}{}{Stryker: gather intelligence in the Thompson's headquarters}
@@ -236,7 +236,7 @@
 {1107}{}{Get Bob Neal's personal gun for Wallis}
 {1108}{}{Bob Neal made a counter-offer}
 {1109}{}{Solve the problem with workers at the Hoover Dam}
-{1110}{}{Investigate the attack on the "Speed Hawk" caravan}
+{1110}{}{Investigate the attack on the "Hawk Express" caravan}
 {1111}{}{Help slaves to escape the pen}
 {1112}{}{Turn the Black Caravan over to the police}
 {1113}{}{Help the police to raid the Pound}

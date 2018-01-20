@@ -518,7 +518,7 @@
 {26301}{}{Homemade wooden chest.}
 {26400}{}{Laying eggs}
 {26500}{}{Ranch guard jacket}
-{26501}{}{This is a very durable leather jacket, reinforced with inserted metal pieces. Recognition marks on the back and sleeves indicate that the wearer is a guard of the ranch of Oliver Luciano.}
+{26501}{}{This is a very durable leather jacket, reinforced with inserted metal pieces. Recognition marks on the back and sleeves indicate that the wearer is a guard of the ranch of Oliver Lucciano.}
 {26600}{}{Flask}
 {26601}{}{Empty metal flask with a screw cap for storage and transportation of liquid.}
 {26700}{}{Pass}
@@ -1112,8 +1112,8 @@
 {58001}{}{NPP "Poseidon Oil" electronic access card.}
 {58100}{}{Pizza}
 {58101}{}{Excellent pizza with gecko meat and mushrooms. And a lot of pepper.}
-{58200}{}{Vyser's weed}
-{58201}{}{This is all that remains of Vyser - an unremarkable and seemingly harmless bunch of grass.}
+{58200}{}{Shitposter's weed}
+{58201}{}{This is all that remains of Shitposter - an unremarkable and seemingly harmless bunch of weed. Do not use in any circumstances.}
 {58300}{}{Nuka-Cola (cherry.)}
 {58301}{}{A bottle of Nuka-Cola, a flavored non-alcoholic beverage of the post-nuclear world. It is made from the leaves of mutated coca and juice of some fruits. Warm and exhausted. With cherry flavor.}
 {58400}{}{Nuka-Cola with flavor}
@@ -1449,7 +1449,7 @@
 {75300}{}{Poker chip "El Capitan"}
 {75400}{}{Poker chip "Eldorado"}
 {75500}{}{Poker chip "Silver Legacy"}
-{75600}{}{Poker chip "Monti"}
+{75600}{}{Poker chip "Monty"}
 {75700}{}{Gold poker chip}
 {75701}{}{Looking at this beautiful thing you strongly assure yourself that now you'll never lose playing poker or roulette!}
 {75800}{}{"Atomic cocktail"}
