@@ -201,7 +201,7 @@
 {2058}{}{The only thing left is to hope, that}
 {2059}{}{in that time Gorbinsky won't make any more trouble.}
 {2060}{}{}
-{2061}{}{But, either way, I will bring him to justice!}
+{2061}{}{But, one way or another, I will bring him to justice!}
 {2062}{}{Criminals can't walk around freely.}
 {2063}{}{Even in remote place that is our quiet county.}
 {2064}{}{}
@@ -219,7 +219,7 @@
 {2076}{}{in this place?..}
 {2077}{}{}
 {2078}{}{We wrapped up driver's body in a bedsheet}
-{2079}{}{and put him in some cold place at the hangar. That Bastard!}
+{2079}{}{and put him in some cold place at the hangar. That bastard!}
 {2080}{}{When I get to Gorbinsky, no judge is going}
 {2081}{}{to save him!}
 {2082}{}{}
@@ -229,15 +229,15 @@
 {2086}{}{}
 {2087}{}{The bus didn't show up again. By lunch I}
 {2088}{}{just forced the mechanic to repair the engine}
-{2089}{}{on that truck. We hit the road to Reno,}
-{2090}{}{but right in the next valley we found the}
+{2089}{}{on the truck. We hit the road to Reno,}
+{2090}{}{but right in the next valley found the}
 {2091}{}{bus, with which Gorbinsky escaped.}
 {2092}{}{It was empty. And for some reason in was facing the village.}
 {2093}{}{Either Gorbinsky came back, or didn't left at all!}
 {2094}{}{Using the radio on a bus, I tried to reach my people,}
 {2095}{}{then, at least, the bus station in Reno, but}
 {2096}{}{all I got was some white noise instead of an answer.}
-{2097}{}{Did everybody, just died in there, God damn it?!}
+{2097}{}{Did everybody, just died in there, goddamn it?!}
 {2098}{}{}
 {2099}{}{We returned to the village to warn}
 {2100}{}{the people about the danger, but were too late - one}
@@ -295,7 +295,7 @@
 {3000}{}{List of items caravan merchant ordered.}
 {3001}{}{}
 {3002}{}{  * Sledgehammer}
-{3003}{}{  * Gecko skin (any)}
+{3003}{}{  * Gecko pelt (any)}
 {3004}{}{  * Shovel}
 {3005}{}{  * First Aid Kit}
 {3006}{}{  * Flare (3 pcs)}
@@ -321,7 +321,7 @@
 {5002}{}{of mass desertion.}
 {5003}{}{}
 {5004}{}{As the commission established, a group of military employees}
-{5005}{}{seized equipment and weapons from Hawthorn warehouses}
+{5005}{}{seized equipment and weapons from Hawthorn warehouses,}
 {5006}{}{then fought their way out of the base perimeter.}
 {5007}{}{The reason that pushed the soldiers to commit}
 {5008}{}{such a crime, was panic, supposedly caused by}
@@ -431,7 +431,7 @@
 {7081}{}{}
 {7082}{}{Sept. 31, 2077. The sergeant and vice-president sat in}
 {7083}{}{the dining room at the table, like old friends.}
-{7084}{}{Probably, that’s how it is.}
+{7084}{}{Probably, that's how it is.}
 {7085}{}{**END-PAR**}
 {7086}{}{*********}
 {7087}{}{}
@@ -609,7 +609,7 @@
 {9034}{}{Vault has been abandoned.}
 {9035}{}{**END-DISK**}
 
-# Jay Kookish's message
+# Jay Kukish's message
 # GVAR_HOWTHORNE_DSK_BAIKER_MSG (GVAR_SIERRA_MISSION_HOLODISK)
 {10000}{}{I didn't expect you to come this far.}
 {10001}{}{Still, if you did - this is not accidental.}
@@ -637,7 +637,7 @@
 {11009}{}{a network of vaults and laboratories. If necessary,}
 {11010}{}{the channels could also be tapped here.}
 {11011}{}{}
-{11012}{}{Among the documents you'll suddenly discover}
+{11012}{}{Among the documents you suddenly discover}
 {11013}{}{surveillance reports for Vault 8:}
 {11014}{}{external and internal communications records,}
 {11015}{}{computer systems data interception, etc.}
@@ -707,7 +707,7 @@
 # GVAR_LIST_ARMSTRONG_PANIHIDA (GVAR_VAULT_CITY_DESIGNER_NOTES)
 {14000}{}{Article from "Washington post" newspaper:}
 {14001}{}{}
-{14002}{}{The death of Louis Armstrong caused genuine flood}
+{14002}{}{The death of Louie Armstrong caused genuine flood}
 {14003}{}{of the most sincere and deepest condolences.}
 {14004}{}{Many newspapers, not only in US, but also in other}
 {14005}{}{countries, posted articles about him passing away}
@@ -1010,7 +1010,7 @@
 {16164}{}{Once we cracked the doors open - all hell broke loose...}
 {16165}{}{PFC Irons and lieutenant Parker scorched the first wave with}
 {16166}{}{flamethrowers, but then these maggots got us from behind...}
-{16167}{}{I kept tearing them open with bursts, until one of them caught}
+{16167}{}{I kept tearing them with bursts, until one of them caught}
 {16168}{}{my hand and chewed it... I got away by stabbing the thing...}
 {16169}{}{Hide myself in the warehouse of H-block...}
 {16170}{}{}
@@ -1085,7 +1085,7 @@
 {19032}{}{Day III}
 {19033}{}{}
 {19034}{}{Judgment Day has come... All that occurred recently I}
-{19035}{}{can only recollect in fragments... Alarm siren akin}
+{19035}{}{can only recollect in fragments... Alarm sirens, akin}
 {19036}{}{to the Jericho trumpets... My poor Mary and Emily,}
 {19037}{}{packing their belongings hastily... Stampede...}
 {19038}{}{Elderly couple, trampled by cattle in fear-induced}
@@ -1093,7 +1093,7 @@
 {19040}{}{Mr. Flowers' family shelter, which granted asylum to}
 {19041}{}{almost three dozens of refugees... But there is one}
 {19042}{}{thing i remember clearly - before security cameras}
-{19043}{}{went off, I witnessed the fireball in the}
+{19043}{}{went off, I witnessed the fireball on the}
 {19044}{}{horizon, expanding rapidly, greedily consuming}
 {19045}{}{souls of the poor lambs of God...}
 {19046}{}{And the dazzling flash...}
@@ -1109,7 +1109,7 @@
 {19056}{}{reactions... Still see her swollen hands, covered}
 {19057}{}{with stains, reaching to me...}
 {19058}{}{Eyes, blurred with pain...}
-{19059}{}{Eerie crying...}
+{19059}{}{Eerie cries...}
 {19060}{}{Why Our Lord is so cruel to me?}
 {19061}{}{She needs me so much in her last moments, but}
 {19062}{}{my strength is ebbing away...}
@@ -1135,8 +1135,8 @@
 {19082}{}{}
 {19083}{}{Today I opened the gates to let the light of Our}
 {19084}{}{Maker, called "radiation" by ignorant fools, to shine}
-{19085}{}{upon this condemned place. Devil's spawn, disguised,}
-{19086}{}{as Mr. Flowers tried to stop me, but fire axe in my}
+{19085}{}{upon this condemned place. Devil's spawn, disguised}
+{19086}{}{as Mr. Flowers, tried to stop me, but fire axe in my}
 {19087}{}{hands, like a blazing sword of Archangel, chopped}
 {19088}{}{squealing messenger of Satan to pieces.}
 {19089}{}{Oh yes, many of them died by my hand that day...}
@@ -1152,8 +1152,8 @@
 {19099}{}{}
 {19100}{}{Day VII}
 {19101}{}{}
-{19102}{}{I'm done here, but there's so much more poor souls for}
-{19103}{}{me left to send to the Pearly Gates of Heaven...}
+{19102}{}{I'm done here, but there's so much more poor souls left}
+{19103}{}{for me to send to the Pearly Gates of Heaven...}
 {19104}{}{The flesh of mine is changing under the influence of}
 {19105}{}{our Lord, which makes some inconvenience...}
 {19106}{}{But i believe - it's all for the best cause! Rejoice,}
@@ -1188,7 +1188,7 @@
 {19135}{}{2. Leather-case book...}
 {19136}{}{[ Surprisingly well-preserved post card picturing}
 {19137}{}{not-so-dressed movie star of a particular genre.}
-{19138}{}{The other side is covered with impeccable}
+{19138}{}{The other side of it covered with impeccable}
 {19139}{}{calligraphic handwriting. ]}
 {19140}{}{}
 {19141}{}{"Good day, Sheriff Crouch! Bringing to your}
@@ -1232,12 +1232,12 @@
 {20000}{}{}
 {20001}{}{So, you decided to make some money on the sale of beads}
 {20002}{}{and fire water to Cheyenne savages? Or want to start} 
-{20003}{}{a new life in Vegas because of problems with a particular}
-{20004}{}{sheriff (everybody knows who I'm talking about)}
+{20003}{}{a new life in Vegas, because of problems with a particular}
+{20004}{}{sheriff (everybody knows who I'm talking about),}
 {20005}{}{but too afraid to go cross the wasteland because}
 {20006}{}{of the wild beast and head-frosted raiders?}
 {20007}{}{Well, what can i say - you are right, our}
-{20008}{}{blessed land is not the best place for a walk. And}
+{20008}{}{blessed land is not the best place for a walk. But}
 {20009}{}{today is your lucky day, gentlemen! Uncle Joe and the}
 {20010}{}{Nevada Express will protect your sorry ass from}
 {20011}{}{harassment of humans and non-humans of all shades and}
@@ -1269,7 +1269,7 @@
 {20037}{}{Of course, the scale of our market now is not quite}
 {20038}{}{like that, but quality of services has improved greatly.}
 {20039}{}{}
-{20040}{}{4. About the scale, by the way. How far and where your}
+{20040}{}{4. About the scale, by the way. How far and where do your}
 {20041}{}{caravans go?}
 {20042}{}{}
 {20043}{}{We got our offices in the sparkling Vegas, in the}
