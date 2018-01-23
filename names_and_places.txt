@@ -11,7 +11,7 @@
 Форсажник - Furius? Furiouser? Furymaker? //что-то надо решить, пока везде Fury
 Страйкер (персонаж) - Stryker
 Страйкер (пушка) - Striker
-Оливер Лучиано - Oliver Lucciano //Или Luciano? По своим, особенным причинам, вариант Lucciano нравится мне больше
+Оливер Лучиано - Oliver Luciano
 Доктор Вилмут - dr. Willmouth
 Дилижанс - Carriage
 Большой Луи - Big Louie
@@ -73,5 +73,5 @@ Beiyang Military Medical Center - Бэйянский военно-медицин
 Аванигижиг Туманный День - Avanigizhig the Foggy Day
 Гекек Ястреб - Gekek the Hawk
 Акабидаб Высокий Бизон - Acabidab the Tall Bison
-Маконс - Makkons
+Маконс - Makkon
 Макозид Медвежья Лапа - Makozid the Bear's Paw
