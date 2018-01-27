@@ -277,7 +277,7 @@
 {1033}{}{White jazzman}
 {1034}{}{Safecracker}
 {1035}{}{Bertolini's consigliere}
-{1036}{}{Lucciano's consigliere}
+{1036}{}{Luciano's consigliere}
 {1037}{}{Stryker's man}
 {1038}{}{Thompson's man}
 {1039}{}{Businessman}
@@ -324,7 +324,7 @@
 {1133}{}{You're huge, sparkling star of the stage. You're the best and you know a lot about good music and the harmony of the senses. Everyone knows that in Reno.}
 {1134}{}{You have cracked so many locks, that you lost count. With such skills the only thing that remains is to rob the bank... If they would still exist in post-nuclear world.}
 {1135}{}{You have become  Mr. Bertolini's associate, a fact that strongly reinforced your reputation among the population of Reno.}
-{1136}{}{You have become  Mr. Lucciano's associate, a fact that strongly reinforced your reputation among the population of Reno.}
+{1136}{}{You have become  Mr. Luciano's associate, a fact that strongly reinforced your reputation among the population of Reno.}
 {1137}{}{You have become  Stryker's associate, a fact that strongly reinforced your reputation among the population of Reno.}
 {1138}{}{You have become  Thompson associate, a fact that strongly reinforced your reputation among the population of Reno.}
 {1139}{}{You have achieved success in Nuka-Cola trading. You get a bonus to luck. Suppliers want to work only with you and traders give you discounts on everything.}

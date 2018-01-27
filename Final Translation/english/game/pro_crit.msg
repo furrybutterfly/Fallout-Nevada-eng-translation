@@ -426,7 +426,7 @@
 {40900}{}{Machete}
 {41000}{}{Owner}
 {41100}{}{Old Jed}
-{41200}{}{Jerlac}
+{41200}{}{Jerlack}
 {41300}{}{Mrs. Wright}
 {41400}{}{Solomon}
 {41500}{}{Maxson}
@@ -434,7 +434,7 @@
 {41700}{}{Fighter from the slums}
 {41800}{}{Madam}
 {41900}{}{Madam}
-{42000}{}{Mr. Lucciano}
+{42000}{}{Mr. Luciano}
 {42100}{}{Bodyguard}
 {42200}{}{Casino security}
 {42300}{}{guard}

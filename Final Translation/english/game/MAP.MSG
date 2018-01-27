@@ -923,7 +923,7 @@
 {1514}{}{Salt Lake City}
 {1515}{}{The Old Man Rabbi}
 {1516}{}{Governmental Vault}
-{1517}{}{Jerlac}
+{1517}{}{Jerlack}
 {1518}{}{Uranium City}
 {1519}{}{The Kennel}
 {1520}{}{Battle Mountain}

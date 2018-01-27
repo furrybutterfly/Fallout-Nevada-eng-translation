@@ -18,8 +18,8 @@
 {106}{}{Bring Sam a porn magazine}
 {107}{}{Find the missing robot scout}
 {108}{}{Decipher deputy Sheriff’s disk}
-{109}{}{Learn more about Jerlac's community}
-{110}{}{Destroy Jerlac's community}
+{109}{}{Learn more about Jerlack's community}
+{110}{}{Destroy Jerlack's community}
 {111}{}{Spy on a "suspicious citizens" couple}
 {112}{}{Collect blood samples of pigrats , coyotes and geckos for doctor Willmouth}
 
@@ -56,7 +56,7 @@
 {209}{}{Regain the farmer's trust}
 
 #---------------------------------------------------------
-# Jerlac
+# Jerlack
 #---------------------------------------------------------
 
 {300}{}{Fix the water pump}
@@ -87,7 +87,7 @@
 {405}{}{"Help" Mold, the drug addict}
 {406}{}{Return to Niskigvan his belongings, taken away by a raider named Furiouser}
 {407}{}{Acabidab asks to find Gizhiyash in New Reno}
-{408}{}{Find a way to cure poor Makkons}
+{408}{}{Find a way to cure poor Makkon}
 
 {410}{}{Louie: Find a way to get to Hawthorne}
 {411}{}{Louie: Collect and bring the toll from Striker}
@@ -184,18 +184,18 @@
 {821}{}{Wright: fulfill the C-4 delivery}
 {822}{}{Wright: recapture the mine from competitors}
 {823}{}{Wright: hunt down a strange guy in the slums}
-{824}{}{Wright: have a meeting with Oliver Lucciano}
+{824}{}{Wright: have a meeting with Oliver Luciano}
 {825}{}{Bertolini: meet with the informant at the ranch}
 {826}{}{Bertolini: set the restaurant against the ranch}
-{827}{}{Bertolini: put Lucciano out of business without killing him}
-{828}{}{Bertolini: offer assistance to Lucciano}
+{827}{}{Bertolini: put Luciano out of business without killing him}
+{828}{}{Bertolini: offer assistance to Luciano}
 {829}{}{Bertolini: follow Huey}
-{830}{}{Lucciano: help Johnny Chase}
-{831}{}{Lucciano: frame "Eldorado" casino}
-{832}{}{Lucciano: frame "Eldorado" casino (2)}
-{833}{}{Lucciano: steal a briefcase with money from Bertolini}
-{834}{}{Lucciano: provoke a conflict between gangsters}
-{835}{}{Lucciano: make a secret deal in the outskirts of the city}
+{830}{}{Luciano: help Johnny Chase}
+{831}{}{Luciano: frame "Eldorado" casino}
+{832}{}{Luciano: frame "Eldorado" casino (2)}
+{833}{}{Luciano: steal a briefcase with money from Bertolini}
+{834}{}{Luciano: provoke a conflict between gangsters}
+{835}{}{Luciano: make a secret deal in the outskirts of the city}
 {836}{}{Stryker: eliminate Patrick the Mormon}
 {837}{}{Stryker: get chemicals from dealer}
 {838}{}{Stryker: gather intelligence in the Thompson's headquarters}

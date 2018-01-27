@@ -518,7 +518,7 @@
 {26301}{}{Homemade wooden chest.}
 {26400}{}{Laying eggs}
 {26500}{}{Ranch guard jacket}
-{26501}{}{This is a very durable leather jacket, reinforced with inserted metal pieces. Recognition marks on the back and sleeves indicate that the wearer is a guard of the ranch of Oliver Lucciano.}
+{26501}{}{This is a very durable leather jacket, reinforced with inserted metal pieces. Recognition marks on the back and sleeves indicate that the wearer is a guard of the ranch of Oliver Luciano.}
 {26600}{}{Flask}
 {26601}{}{Empty metal flask with a screw cap for storage and transportation of liquid.}
 {26700}{}{Pass}
@@ -1435,7 +1435,7 @@
 {74600}{}{Emergency exit key}
 {74601}{}{Standard key from the emergency exit door at Stryker's headquarters.}
 {74700}{}{Hangar key}
-{74701}{}{Standard key from the hangar door in the ranch of Oliver Lucciano.}
+{74701}{}{Standard key from the hangar door in the ranch of Oliver Luciano.}
 {74800}{}{Schematics: "Kubotan"}
 {74801}{}{The pre-war schematics for policemen on assembling the kubotan, describing the art of its application. It is not difficult to build this self-defense weapon, but without proper skills it will be useless.}
 {74900}{}{Eli's key #9}

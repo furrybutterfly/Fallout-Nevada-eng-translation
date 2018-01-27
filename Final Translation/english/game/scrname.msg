@@ -75,7 +75,7 @@
 {175}{}{Game of dice}
 {176}{}{Steve}
 {177}{}{Community member}
-{178}{}{Jerlac}
+{178}{}{Jerlack}
 {179}{}{Evan}
 {180}{}{Gizhiyash}
 {181}{}{Butcher}
@@ -395,7 +395,7 @@
 {495}{}{Grave inscription}
 {496}{}{Robot}
 {497}{}{Ripper}
-{498}{}{Makkons}
+{498}{}{Makkon}
 {499}{}{Harold}
 {500}{}{Water collector}
 {501}{}{Jailer}
@@ -804,7 +804,7 @@
 {904}{}{Terminal}
 {905}{}{Door}
 {906}{}{Punching bag}
-{907}{}{Oliver Lucciano}
+{907}{}{Oliver Luciano}
 {908}{}{Wagon}
 {909}{}{Head of the convoy}
 {910}{}{Convoy guard}
