@@ -932,7 +932,7 @@
 {51900}{}{Traces}
 {51901}{}{You see traces of the robot's caterpillar tracks.}
 {52000}{}{Cylinders}
-{52001}{}{Emergency oxygen reserve cylinders. On each is written "EXPLOSIVE!" in large letters.}
+{52001}{}{Emergency oxygen reserve cylinders. The word "EXPLOSIVE!" is written on each of them with large letters.}
 {52100}{}{Rope}
 {52101}{}{The rope is attached to the ground and dropped in the foul smelling hole.}
 {52200}{}{Rails}
@@ -1514,7 +1514,7 @@
 {82401}{}{The monitors are in good condition.}
 {82500}{}{Wall}
 {82600}{}{Armored door}
-{82601}{}{A very sturdy door. Устоит даже перед взрывом.}
+{82601}{}{A very sturdy door. Holding up after even the explosion.}
 {82700}{}{Light}
 {82701}{}{A security light.}
 {82800}{}{Light}
@@ -2081,7 +2081,7 @@
 {125900}{}{Welcoming sign}
 {125901}{}{Welcome road sign of pre-war Lovelock town.}
 {126000}{}{Newspaper clippings}
-{126001}{}{Judging by these clippings, the local guest is obsessed with the fear of alien conquest.}
+{126001}{}{Judging by these clippings, the inhabitant of this room is very obsessed with the fear of alien invasion.}
 {126100}{}{Sheriff office}
 {126200}{}{Poster}
 {126201}{}{A poster with some guy holding a camera. His face is familiar to everyone, but now no one will say exactly who it is.}
@@ -2211,7 +2211,7 @@
 {137601}{}{A lit torch in a wall sconce.}
 {137700}{}{Pumpkin with a candle}
 {137800}{}{Storage tank}
-{137801}{}{Before you, an automated liquid tank.}
+{137801}{}{Before you see an automated liquid tank.}
 {137900}{}{Grave cross}
 {137901}{}{It is written: "Eben Byers. That's how the excessive health care ends".}
 {138000}{}{Wall}
@@ -2252,7 +2252,7 @@
 {141100}{}{Night club lights}
 {141200}{}{Graffiti}
 {141300}{}{Brand graffiti}
-{141301}{}{Advertising graffiti of the hotel. Someone has already managed to spoil everything with hooligan inscriptions.}
+{141301}{}{Advertising graffiti of the hotel. Someone has already managed to spoil it with hooligan inscriptions.}
 {141400}{}{Signboard}
 {141401}{}{The inscription on the sign says: "Opal Shop"}
 {141500}{}{Power distributor}
@@ -2563,7 +2563,7 @@
 {168500}{}{Mine Elevator}
 {168600}{}{Mine Elevator}
 {168700}{}{Clothing synthesizer}
-{168701}{}{Ruined clothing synthesizer from the company Vault-Tech. Although some internal parts seems intact, it is hardly possible to restore it to working condition.}
+{168701}{}{Ruined clothing synthesizer from the company Vault-Tec. Although some internal parts seems intact, it is hardly possible to restore it to working condition.}
 {168800}{}{Vertibird}
 {168900}{}{Vertibird}
 {169000}{}{Vertibird}
@@ -2633,7 +2633,7 @@
 {175100}{}{Lamp}
 {175200}{}{Out of Order Sign}
 {175300}{}{Hole in the ground}
-{175301}{}{Deep hole in the ground. Below, through the darkness, you can hardly distinguish the metal floor.}
+{175301}{}{Deep hole in the ground. Below, through the darkness, you can hardly see the metal floor.}
 {175400}{}{Train doors}
 {175500}{}{Head in the tank}
 {175600}{}{Cliff}
@@ -2700,7 +2700,7 @@
 {181300}{}{Table}
 {181400}{}{Coffin}
 {181500}{}{Statue of a warrior}
-{181501}{}{A statue depicting a muscular warrior in a beret with grenades on the belt, which tries to escape from the captivity of the chains.}
+{181501}{}{A statue depicting a muscular warrior in a beret with grenades on the belt, which tries to escape from the captivity of his chains.}
 {181600}{}{Nameplate}
 {181700}{}{Table}
 {181800}{}{Wood Door}
@@ -2747,7 +2747,7 @@
 {185700}{}{Shadow}
 {185800}{}{Shadow}
 {185900}{}{Hole in the ground}
-{185901}{}{You see a hole in the ground. The rope, is securely attached to the stones.}
+{185901}{}{You see a hole in the ground. The rope is securely attached to the stones.}
 {186000}{}{Coffin}
 {186100}{}{Sign}
 {186101}{}{"Atomic cafe"}
@@ -2804,13 +2804,13 @@
 {190600}{}{Disturbed beam}
 {190601}{}{You see nothing out of the ordinary. Except that, the planks are nailed little askew.}
 {190700}{}{Brahmin remains}
-{190701}{}{Partially decomposed remains of a brahmin - left head, right head, and a little bit of everything. The most delicious parts, apparently, have been eaten long time ago.}
+{190701}{}{Partially decomposed remains of a brahmin - left head, right head, a little bit of everything. The most delicious parts, apparently, have been eaten long time ago.}
 {190800}{}{Hole in the ground}
 {190801}{}{Just a hole, which you crawled out from.}
 {190900}{}{Note to Milo}
 {190901}{}{This letter is addressed to Milo and to those who will meet him.}
 {191000}{}{Strange bus}
-{191001}{}{This unusual, acid colored bus looks like specifically laid to rest here for the eternity.}
+{191001}{}{This unusual, acid-colored bus looks like it has been specifically left to rest here for the eternity.}
 {191100}{}{Egg}
 {191101}{}{This heavy egg stuck in the hole and now will not move anywhere.}
 {191200}{}{Dam wall}

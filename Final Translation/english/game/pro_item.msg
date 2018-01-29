@@ -1148,8 +1148,8 @@
 {59801}{}{Holodisk with a record that you secretly made during a conversation with Larry Geller about Sam Phillips. He testified that Phillips once had contact with drug dealers.}
 {59900}{}{Drug dealer about Phillips}
 {59901}{}{Holodisk with a record that you secretly made during a conversation with the drug dealer about Sam Phillips. He testified that Phillips once had contact with drug dealers.}
-{60000}{}{Receipt from the Kennel}
-{60001}{}{An agreement between Hal Wallis and the administration of the Drug Lab "the Kennel", in which the laboratory undertakes to provide Wallis with a large batch of a very strong drug.}
+{60000}{}{Receipt from The Pound}
+{60001}{}{An agreement between Hal Wallis and the administration of the Drug Lab "The Pound", in which the laboratory undertakes to provide Wallis with a large batch of a very strong drug.}
 {60100}{}{Dirt on Bob Neil}
 {60101}{}{Record of your conversation with Bob Neil, in which Bob Neil openly asks you to eliminate Hal Wallis.}
 {60200}{}{Soldier badge}
@@ -1235,7 +1235,7 @@
 {64300}{}{House key}
 {64301}{}{The standard key to an apartment house in the Wind of War.}
 {64400}{}{Pen key}
-{64401}{}{A set of old keys from the slave's pen in the Kennel.}
+{64401}{}{A set of old keys from the slave's pen in The Pound.}
 {64500}{}{Trash can}
 {64501}{}{Trash can. You can hardly make out the inscription on the sticker: "Keep the streets of your city clean!"}
 {64600}{}{Key to room 7}

@@ -22,7 +22,7 @@
 {1201}{}{A mutated Mantis.}
 {1300}{}{Sergeant Graves}
 {1400}{}{Doc}
-{1500}{}{Richard Gray}
+{1500}{}{Richard Moro}
 {1600}{}{Spore Plant}
 {1601}{}{A carnivorous plant.}
 {1700}{}{Cute slave}
@@ -426,7 +426,7 @@
 {40900}{}{Machete}
 {41000}{}{Owner}
 {41100}{}{Old Jed}
-{41200}{}{Jerlack}
+{41200}{}{Gerlach}
 {41300}{}{Mrs. Wright}
 {41400}{}{Solomon}
 {41500}{}{Maxson}

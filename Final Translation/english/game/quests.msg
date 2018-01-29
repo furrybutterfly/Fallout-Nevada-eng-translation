@@ -18,8 +18,8 @@
 {106}{}{Bring Sam a porn magazine}
 {107}{}{Find the missing robot scout}
 {108}{}{Decipher deputy Sheriff’s disk}
-{109}{}{Learn more about Jerlack's community}
-{110}{}{Destroy Jerlack's community}
+{109}{}{Learn more about Gerlach's community}
+{110}{}{Destroy Gerlach's community}
 {111}{}{Spy on a "suspicious citizens" couple}
 {112}{}{Collect blood samples of pigrats , coyotes and geckos for doctor Willmouth}
 
@@ -56,7 +56,7 @@
 {209}{}{Regain the farmer's trust}
 
 #---------------------------------------------------------
-# Jerlack
+# Gerlach
 #---------------------------------------------------------
 
 {300}{}{Fix the water pump}
@@ -73,7 +73,7 @@
 {306}{}{Save the community from the "contagion"}
 {307}{}{Deal with runaway slaves}
 {308}{}{Investigate the brahmin's disappearance}
-{309}{}{Investigate the mailman's disappearance}
+{309}{}{Investigate the delivery man's disappearance}
 
 #---------------------------------------------------------
 # Lovelock
@@ -90,7 +90,7 @@
 {408}{}{Find a way to cure poor Makkon}
 
 {410}{}{Louie: Find a way to get to Hawthorne}
-{411}{}{Louie: Collect and bring the toll from Striker}
+{411}{}{Louie: Collect and bring the toll from Stryker}
 {412}{}{Louie: Kill the traitor named Balder}
 {413}{}{Louie: Take revenge on drug dealer Solomon in New Reno}
 {414}{}{Louie: Stop the drug courier from Vegas}
@@ -177,7 +177,7 @@
 {814}{}{Deliver a comedian from Vegas to "Cotton" club}
 {815}{}{Meet Nick Hauer at "Silver" hotel}
 {816}{}{Arrange the escape of Devero family from the city}
-{817}{}{Install bugs at "Eldorado" casino}
+{817}{}{Install bugs at the "Eldorado" casino}
 {818}{}{Get information about food shipments}
 
 {820}{}{Wright: explore the situation in Uranium City}
@@ -205,7 +205,7 @@
 {842}{}{Thompson: investigate the attack on the propaganda team}
 {843}{}{Thompson: persuade Mordino to cooperate}
 {844}{}{Thompson: sabotage Striker's deal}
-{845}{}{Thompson: prepare the invasion to Striker's}
+{845}{}{Thompson: prepare the invasion to Stryker's}
 
 #---------------------------------------------------------
 # Bridgeport
@@ -258,18 +258,18 @@
 {1504}{}{Deal with Mark's problem}
 {1505}{}{Execute the "robbery of the century" in Salt Lake}
 {1506}{}{Help beggar to get a job}
-{1507}{}{Get nuka-cola selling license}
-{1508}{}{Make a diversion on nuka-cola factory}
-{1509}{}{Nuka-cola: get a deal with "Cotton" club}
-{1510}{}{Nuka-cola: get a deal with "Silver" restaurant}
-{1511}{}{Nuka-cola: get a deal with "Hard Rock cafe"}
-{1512}{}{Nuka-cola: get a deal with the Wind of War}
-{1513}{}{Fix automated logical controller for Nuka-cola factory}
-{1514}{}{Deal with Nuka-cola merchant}
+{1507}{}{Get Nuka-Cola selling license}
+{1508}{}{Make a diversion on Nuka-Cola factory}
+{1509}{}{Nuka-Cola: get a deal with "Cotton" club}
+{1510}{}{Nuka-Cola: get a deal with "Silver" restaurant}
+{1511}{}{Nuka-Cola: get a deal with "Hard Rock cafe"}
+{1512}{}{Nuka-Cola: get a deal with the Wind of War}
+{1513}{}{Fix automated logical controller for Nuka-Cola factory}
+{1514}{}{Deal with Nuka-Cola merchant}
 {1515}{}{Get Gary Gilmore to justice}
 {1516}{}{Slaughter Provo's population}
 {1517}{}{Kill Salt Lake City sheriff on Provo's request}
-{1518}{}{Return the keys to nuka-cola factory}
+{1518}{}{Return the keys to Nuka-Cola factory}
 {1519}{}{By any means take the encoder from caravan merchant}
 
 #---------------------------------------------------------
@@ -300,7 +300,7 @@
 {1903}{}{Return the workers in Uranium City: machine operator}
 {1904}{}{Return the workers in Uranium City: supplier}
 {1905}{}{Return the workers in Uranium City: cabaret girl}
-{1906}{}{Courier delivery of Louis Birch's report}
+{1906}{}{Courier delivery of Louis Burch's report}
 {1907}{}{Become Uranium City's sheriff}
 {1908}{}{Carl asks to find a fuse}
 

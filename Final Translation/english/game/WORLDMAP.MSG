@@ -113,7 +113,7 @@
 {363}{}{Temporary Stop}
 {364}{}{Presidential Level}
 #
-# Jerlack
+# Gerlach
 {370}{}{Settlement}
 {371}{}{Hunting Grounds}
 #
