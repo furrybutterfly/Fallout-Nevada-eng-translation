@@ -226,7 +226,7 @@
 {355}{}{I'll do my best.}
 {356}{}{Run around the desert, looking for a mailman? Not today.}
 
-{357}{}{Excellent! The courier's name is Milo. He was coming from Jerlack, so I'd start looking there. Ask around and see if anyone knows anything.}
+{357}{}{Excellent! The courier's name is Milo. He was coming from Gerlach, so I'd start looking there. Ask around and see if anyone knows anything.}
 {358}{}{I have more questions about this job.}
 {359}{}{I'll see what I can do.}
 
@@ -234,11 +234,11 @@
 {360}{}{Ask away.}
 {361}{}{[sighs] I heard Evan had an accident. That's bad news, but the package should still be on its way.}
 {362}{}{Tell me more about this courier.}
-{363}{}{He goes by Milo. He lives in Jerlack, but he makes deliveries here. Not a lot to say about him - quiet, professional... that's about it. Pretty much what a courier should be.}
+{363}{}{He goes by Milo. He lives in Gerlach, but he makes deliveries here. Not a lot to say about him - quiet, professional... that's about it. Pretty much what a courier should be.}
 {364}{}{What was he delivering?}
 {365}{}{Gecko skins from Evan. Before you ask - yes, we got our own hunters, but Evan is a real master. His skins are better than anyone else's in these parts.}
-{366}{}{Tell me about Jerlack.}
-{367}{}{It's to the west from here. A small place, kind of like ours - though a hell of a lot more strict. It's named after its founder, Mr. Jerlack. He's still in charge, last I've heard.}
+{366}{}{Tell me about Gerlach.}
+{367}{}{It's to the west from here. A small place, kind of like ours - though a hell of a lot more strict. It's named after its founder, Mr. Gerlach. He's still in charge, last I've heard.}
 {368}{}{What's my reward?}
 {369}{}{Look, I get that you need a reward for this, but a man's life is at stake here! Find him first, and then we'll talk about payment, alright?}
 {370}{}{Okay, I'll go look for him.}
@@ -343,12 +343,12 @@
 {528}{}{Lovelock is a lot more peaceful with Big Louie out of the picture.}
 
 #Судьба общины Джерлака
-{529}{}{They say Jerlack's still going strong. That guy is tough!}
+{529}{}{They say Gerlach's still going strong. That guy is tough!}
 {530}{}{Anyone heading to our neighbors to the west?}
 
-{531}{}{Jerlack... it's sad to hear that our neighbors are no more.}
-{532}{}{Jerlack's gone real quiet. There's something shady going on, if you ask me.}
-{533}{}{Jerlack's practically abandoned. Everyone went somewhere else, but no one knows where.}
+{531}{}{Gerlach... it's sad to hear that our neighbors are no more.}
+{532}{}{Gerlach's gone real quiet. There's something shady going on, if you ask me.}
+{533}{}{Gerlach's practically abandoned. Everyone went somewhere else, but no one knows where.}
 
 #квест дилижансера в Рино
 {540}{}{Did you hear about the Nevada Express? Don't come near the place - it's very dangerous!}
