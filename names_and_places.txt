@@ -15,7 +15,7 @@
 Доктор Вилмут - dr. Willmouth
 Дилижанс - Carriage
 Большой Луи - Big Louie
-Скоростной Ястреб – Hawk Express
+Скоростной Ястреб – Speed Hawk
 Пугач – Liberator
 Поджиг – Zipper (deprecated)
 Ветер Войны – Wind of War
@@ -51,10 +51,10 @@ Beiyang Military Medical Center - Бэйянский военно-медицин
 Убежище 8 - Vault 8
 Община блэк-Рок - Black-Rock
 Ветер Войны - Wind of War
-Питомник - The Kennel
+Питомник - The Pound
 АЭС Посейдон Ойл - Poseidon Oil NPP
-Община Джерлака - Jerlac's community
-Джерлак - Jerlac
+Община Джерлака - Gerlach's community
+Джерлак - Gerlach //подтверждено Пожелюжиным А., что это реальный населенный пункт
 Дамба гувера - Hoover Dam
 Лас-Вегас - Las Vegas
 район Прово - Provo
