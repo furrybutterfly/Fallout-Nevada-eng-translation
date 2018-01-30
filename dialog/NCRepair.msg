@@ -17,7 +17,7 @@
 {115}{}{Alright, forget it.}
 
 #Первый разговор
-{120}{}{[entering dim-lit room, you see its dirty-face goggles-wearing inhabitant. He looks pretty busy and tired at the same time. He stops working when notices you.] Hnh? You a customer or just lost? You never know who's wandering all the way out here... but hey, maybe I'm lucky this time. What can i do for ya?}
+{120}{}{[entering dim-lit room, you see its dirty-face goggles-wearing inhabitant. He looks pretty busy and tired at the same time. He stops working when notices you] Hnh? You a customer or just lost? You never know who's wandering all the way out here... but hey, maybe I'm lucky this time. What can i do for ya?}
 {121}{}{Hi. May i wonder to whom i managed to came across in this slums?}
 {122}{}{Frank Cochran, at your service. I'm mechanic and electrician, and also a little bit of a gunsmith. I often have to deal with just about anything that has something to do with repairing. As for slums - no offense taken, I like it that way. If i had more trust in people, i would've already moved somewhere closer to the central streets.}
 {123}{}{I see. So if I need something repaired, I can talk to you?}
@@ -104,7 +104,7 @@
 
 #Починка бортового компьютера
 {190}{}{Can you fix this on-board computer?}
-{191}{}{[he takes the computer, looking as he had never seen anything like this before, spins it in his hands for a little, meditatively draws his finger over dusty circuit board, sniffs the smell of condensers, and then scratches back of his head.] Yeah, i can do that. Why not? It looks like some parts are missing. Not a big problem though. I could look into it, for a buck. 2000 will do just fine.}
+{191}{}{[he takes the computer, looking as he had never seen anything like this before, spins it in his hands for a little, meditatively draws his finger over dusty circuit board, sniffs the smell of condensers, and then scratches back of his head] Yeah, i can do that. Why not? It looks like some parts are missing. Not a big problem though. I could look into it, for a buck. 2000 will do just fine.}
 {192}{}{Here's the money, but be careful. It can't be replaced and I *really* need it to work. No second chances.}
 {193}{}{I'll think about it.}
 {194}{}{You found a way to repair the train in Salt Lake City.}
@@ -135,7 +135,7 @@
 {208}{}{Sure. I'll do it for }
 {209}{}{Here’s the money.}
 {210}{}{No thanks.}
-{211}{}{[an hour later, exhausted mechanic drags in a sack full of plates.] Uh... we have a little problem. I busted my last drill working on these, so don't know how to continue. All i managed to make is here.}
+{211}{}{[an hour later, exhausted mechanic drags in a sack full of plates] Uh... we have a little problem. I busted my last drill working on these, so don't know how to continue. All i managed to make is here.}
 {212}{}{Well, at least it's something.}
 {213}{}{ bucks.}
 
@@ -151,7 +151,7 @@
 {228}{}{[he scratches one unshaven cheek] Yeah... alright, fine. But I want the cash up front.}
 {229}{}{Here, take it. Don't try anything funny!}
 {230}{}{Actually, I changed my mind. You can go back to doing nothing.}
-{231}{}{[carefully counts the money, then nods.] Yeah, yeah. I'll get it done. No worries.}
+{231}{}{[carefully counts the money, then nods] Yeah, yeah. I'll get it done. No worries.}
 {232}{}{Good.}
 
 {233}{}{I don't work for free.}
@@ -165,7 +165,7 @@
 {243}{}{Here’s the money. Give me the fuse.}
 {244}{}{I'll keep looking.}
 
-{245}{}{[he shrugs.] Nothing is free nowadays. But I've got an alternative option, if you are interested.}
+{245}{}{[he shrugs] Nothing is free nowadays. But I've got an alternative option, if you are interested.}
 {246}{}{I’m listening.}
 {247}{}{No, I'll pay. Here's the money.}
 {248}{}{Got a lot of dogs around here lately. Think it's breeding season, they're horny and ornery. Looks like mutts from all of Reno gather here to a party, so I'm afraid even to go out to take a piss at night. You kill the bitches, and the fuse is yours.}
@@ -227,13 +227,13 @@
 #Апгрейд оружия
 {300}{}{[he scratches his unshaven cheek] Eh. I'm not good with just any weapon, but when it comes to standard stuff - pistols, rifles, shotguns - it's all pretty straightforward to me. Don't expect much though.}
 
-{301}{}{[Show magnum revolver.]}
-{302}{}{[Show desert eagle.]}
-{303}{}{[Show hunting rifle.]}
-{304}{}{[Show shotgun.]}
-{305}{}{[Show electric prod.]}
-{306}{}{[Show sledgehammer.]}
-{307}{}{[Show spear.]}
+{301}{}{[Show magnum revolver]}
+{302}{}{[Show desert eagle]}
+{303}{}{[Show hunting rifle]}
+{304}{}{[Show shotgun]}
+{305}{}{[Show electric prod]}
+{306}{}{[Show sledgehammer]}
+{307}{}{[Show spear]}
 {308}{}{}
 {309}{}{Never mind.}
 {310}{}{ bucks.}
@@ -258,12 +258,12 @@
 {328}{}{It's a fucking sledgehammer, what do you want? Hmm... I guess I can put spikes on it. Interested? It'll cost you }
 {329}{}{}
 
-{330}{}{[After a couple of hours, the mechanic finishes his work and hands your newly improved weapon back to you.]}
+{330}{}{[After a couple of hours, the mechanic finishes his work and hands your newly improved weapon back to you]}
 {331}{}{Thanks. I have another weapon for you, if you're interested.}
 {332}{}{Thanks.}
 
-{335}{}{[Show "Savage".]}
-{336}{}{[Show Nelson's broken shotgun.]}
+{335}{}{[Show "Savage"]}
+{336}{}{[Show Nelson's broken shotgun]}
 
 #Динамит
 {350}{}{Do you work with explosives?}
@@ -285,7 +285,7 @@
 {402}{}{I'd like to show you another set of armor.}
 {404}{}{You'll have to take it off before I can do anything with it.}
 {405}{}{Oh, right, of course...}
-{406}{}{[After some time, the mechanic brings back your newly upgraded armor, nodding to himself.] Damn, I'm good.}
+{406}{}{[After some time, the mechanic brings back your newly upgraded armor, nodding to himself] Damn, I'm good.}
 {407}{}{That's some fine work!}
 
 {410}{}{Can you do anything with this leather jacket?}
