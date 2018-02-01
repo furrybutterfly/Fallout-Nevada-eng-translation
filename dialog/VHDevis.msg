@@ -64,7 +64,7 @@
 {169}{}{Sorry, Mr. Davis. I did not immediately get the point. Here is the holodisk.}
 
 #ѕро копов-киллеров
-{170}{}{[mockingly] Tsk, tsk, tsk. You donТt say? A cop-killer?! That's new.}
+{170}{}{[mockingly] Tsk, tsk, tsk. You donТt say? A killer cop?! That's new.}
 {171}{}{Whatever you say. Another question.}
 {172}{}{Well then, I'm sorry to bother you.}
 {173}{}{I'm not here to play games. Do you think itТs nice to be poked in the face with the barrel of a revolver?!}
@@ -124,7 +124,7 @@
 {220}{}{You?! To make things even worse? Mind your own business, citizen.}
 {221}{}{Fine.}
 {222}{}{Sure, we'll pay for good work.}
-{223}{}{Ok then. I'll start working.}
+{223}{}{Okay then. I'll start working.}
 
 {224}{}{Food supplement?! This will not work on me! It's just silly! I am not so blind, not to distinguish the drug from food!}
 {225}{}{It seems that so much.}

@@ -120,7 +120,7 @@
 {251}{}{Can you increase the power of the plasma rifle?}
 {252}{}{Make a sawed-off of this shotgun.}
 {253}{}{I want to decrease energy consumption on the laser rifle.}
-{254}{}{Hey, now that's more like it! Just my kind of work. Ok. I will make a discount - just because I'm enjoying this. For }
+{254}{}{Hey, now that's more like it! Just my kind of work. Okay. I will make a discount - just because I'm enjoying this. For }
 {255}{}{Wow! Where did you got that beauty? Fuck me by demon, if I don't make a masterpiece out of it! For }
 {256}{}{Assault rifle, what can you do with it?}
 {257}{}{I can expand the mag. For }
@@ -155,7 +155,7 @@
 {290}{}{I need to get to Lovelock. [400$]}
 {291}{}{I need to get to Wendover. [400$]}
 {292}{}{Someone doesn't have enough bucks. Then I'm too tired to drive you there. Got it?}
-{293}{}{Ok.}
+{293}{}{Okay.}
 
 #Об окрес'нос'ях
 {294}{}{And what is this place around?}
@@ -177,7 +177,7 @@
 {307}{}{You found a way to repair the train.}
 
 #ПЛК
-{310}{}{So little and so annoying. But I'll manage. What can you give in return? Ah, you have nothing to give, besides money. Ok. Here is my price - 1000 bucks.}
+{310}{}{So little and so annoying. But I'll manage. What can you give in return? Ah, you have nothing to give, besides money. Okay. Here is my price - 1000 bucks.}
 {311}{}{Here is the device and the money.}
 {312}{}{No need.}
 {313}{}{Biker skillfully did his favorite job. All that's left is to take the unit back to the factory.}
@@ -188,7 +188,7 @@
 {322}{}{Hey, no problem. Anyway, we love driving bikes more than shaking around in a stuffy car.}
 {323}{}{Good then. So what about an upgrade? Will you see what can be done?}
 {324}{}{Well, let's see...}
-{325}{}{Ok.}
+{325}{}{Okay.}
 {326}{}{Yes, I have few ideas. Do you know why the acceleration and speed is so lame? Because the contacts are weak, lot of junk between the parts, oil is dried up to nothing, and I also can put in some special stuff. The thing will fly!}
 {327}{}{Good. And how much do you want for this overhaul?}
 
@@ -221,7 +221,7 @@
 {402}{}{This is too much!}
 {403}{}{Leave it for now, look at the other weapon I have.}
 {404}{}{Believe me, such technology is hard to come by. Can you see the mark of Area 51? Only God knows, what was going on there, but I can tell you for sure - it's worth it.}
-{405}{}{Ok, deal.}
+{405}{}{Okay, deal.}
 {406}{}{Great. So, as I said, I'll take the job only for 3000 bucks.}
 {407}{}{Take everything, you need!}
 {408}{}{Not now.}
@@ -404,7 +404,7 @@
 {598}{}{Your problem is settled in Reno. Tuco acquainted himself with the evidence and made a public penalty. Now everyone knows that the attack was carried out by some of their own.}
 {599}{}{Great job! Just what we need. I'd never thought of throwing false clues at them, and you... You are clever.}
 {600}{}{Thanks.}
-{601}{}{Ok, don't just stand there. I remember about the reward. Here, take it. [gives you laser pistol] It's yours.}
+{601}{}{Okay, don't just stand there. I remember about the reward. Here, take it. [gives you laser pistol] It's yours.}
 {602}{}{Not bad.}
 {603}{}{Good job! Of course, it's a shame the company's rep is damaged because of two idiots, but why should we care, right?}
 {604}{}{Yeah.}
@@ -427,7 +427,7 @@
 {1321}{}{Erm... I need that car.}
 {1331}{}{Hey, sis, wake up!}
 {1341}{}{Hahah! [wipes his tears] You're really funny, you know!}
-{1405}{}{Ok, deal.}
+{1405}{}{Okay, deal.}
 {1469}{}{You really need it? Hmm. You proved yourself well with these prematures in Reno and deserve our respect. So be it - I will share them with you. You're good gal.}
 {1478}{}{You seem like a capable gal, if you managed to get here and question me. There is one job, for which I'm willing to pay.}
 {1530}{}{Мы не можем поджида'ь возле Рино целые су'ки, ведь ник'о не знае', когда и где э'и гады появя'ся вновь. До нас 'акже доходили слухи о' барменов, ч'о к'о-'о предупреждае' ублюдков по рации о нашем приближении. Они всегда успеваю' скры'ься. Ты же не похожа на одного из нас, а по'ому 'ебе проще зас'а'ь их врасплох.}
