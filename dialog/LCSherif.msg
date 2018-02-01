@@ -2,15 +2,15 @@
 {101}{}{You see Burton "Whip" Hickok, the sheriff of Salt Lake City.}
 
 {102}{}{Excuse me, but what is this place?}
-{103}{}{I really need to advise more education in these parts if so many people fail to read the "Sheriff" plate at the entrance...}
+{103}{}{I really need to pay my attention to education in these parts, if so many people fail to read the "Sheriff" sign at the entrance...}
 {104}{}{Oh, it's the sheriff's office? And you are...}
-{105}{}{I actually am the sheriff. My name is Burton Hickok, while simple people sometimes call me "Whip". And to answer the next question immediately: Yes, my ancestor is *that* Hickok. And yes, I bring order by the whip... and the gun if it's necessary.}
+{105}{}{I'm actually the sheriff himself. My name is Burton Hickok, while simple people sometimes call me "Whip". And to immediately answer the next question: Yes, my ancestor is *that* Hickok. And yes, I bring order by the whip... and the gun if it's necessary.}
 {106}{}{Okay, Sheriff Burton, now everything is clear to me.}
 
 #Dialogue start:
-{110}{}{So you caught the thief at the Kwok brothers? You did the right thing. For a long time I've been cleaning out the city from all this dirt. But there are still bastards that are trying to turn Salt Lake into a shithole, hence we appreciate each victory of justice over lawlessness. On behalf of Salt Lake City, I express my gratitude for the help. I do not know what guided you, but I will not forget that. According to customs I should pay to you. $3000 is the amount that the traders would have lost if it where not for you. Thanks again.}
+{110}{}{So you caught the thief at the Kwok brothers? You did the right thing. For a long time I've been cleaning out the city from all this dirt. But there are still bastards that are trying to turn Salt Lake into a shithole, hence we appreciate each victory of justice over lawlessness. On behalf of Salt Lake City, I express my gratitude for the help. I do not know what made you act, but I will not forget that. According to customs I should pay to you. $3000 is the amount that the traders would have lost if it where not for you. Thanks again.}
 {111}{}{Wow! That is quite a fee!}
-{112}{}{Ok. Take this one to the cell, and this one we will release. (turns to you) This is my first and last warning, because you're the new person in town. I don't know what pushed you onto a dirty business, but we wont forgive you in the future. I'm sure you'll understand me the first time. (stroking his gun) Now get out.}
+{112}{}{Ok. Take this one to the cell, and this one we will release. [turns to you] This is my first and last warning, because you're the new person in town. I don't know what pushed you onto a dirty business, but we wont forgive you in the future. I'm sure you'll understand me the first time. [stroking his gun] Now get out.}
 {113}{}{Damn, that was really messed up...}
 {114}{}{So you are that elusive ghost? Oh, we had already heard rumors about your "exploits" beforehand. I don't why you are wanted for in the whole wasteland, but if you make problems in *my* city, *I* will be the one who rids the world from you. And now relax, that was a warning, the first *and* the last.}
 {115}{}{I understand, sheriff. You don't need to repeated yourself.}
@@ -50,7 +50,7 @@
 
 #Cola Merchant
 {146}{}{I want to report a crime! The merchant in the parking lot sold me irradiated Nuka-Cola.}
-{147}{}{Damn, I could smell that something was fishy about that asshole! It never occurred to me to check his goods for radiation exposure levels. He probably has serious mental issues, carrying irradiated things around. Well, we have to confiscate and destroy the goods... (calls for his sergeant and tells him to settle the matter before turning his attention back to you) Thank you for your testimony. This was a timely decision, before someone could get hurt.}
+{147}{}{Damn, I could smell that something was fishy about that asshole! It never occurred to me to check his goods for radiation exposure levels. He probably has serious mental issues, carrying irradiated things around. Well, we have to confiscate and destroy the goods... [calls for his sergeant and tells him to settle the matter before turning his attention back to you] Thank you for your testimony. This was a timely decision, before someone could get hurt.}
 {148}{}{You're welcome, Sheriff.}
 
 #About the cleaned up Vagrant:
@@ -160,7 +160,7 @@ As for the dog #
 {264}{}{Well, what can I do? If the wife herself admits it and asks for help... But even in that case, I do not like to punish people for someone's words. It's a small town, there are a lot of gossip and family grievances. It is better to stay away of it, believe me. Hopefully, life will teach them to appreciate each other.}
 {265}{}{Hmm. Well, if you're so sure then...}
 {266}{}{What?! Damn it! I suspect that this would end badly. But if I had intervened, the problem wouldn't got resolved. You can't simply change people like Merck. Now we bust his ass. Hey guys! Get ready! And you wait here until we get back.}
-{267}{}{(wait)}
+{267}{}{[wait]}
 
 {268}{}{I got the bastard! He was so hysterical that he didn't even bother to resist, and asked for the gallows himself. I suppose, when he sobers up and sleep it off, he will talk differently. What do you think, what to do with him?}
 {269}{}{Public hanging! An edification, so to speak.}
@@ -210,7 +210,7 @@ As for the dog #
 {377}{}{To think how much one gets for an ordinary head...}
 
 #Reaction to the sheriff of Uranium City
-{380}{}{(catching the sight of your sheriff's badge, he raises a skeptical eyebrow) Where did you get that?}
+{380}{}{[catching the sight of your sheriff's badge, he raises a skeptical eyebrow] Where did you get that?}
 {381}{}{I am the elected sheriff of Uranium City.}
 {382}{}{Well, you see, they just gave it to me. I had no desire to take it, but they insisted...}
 {383}{}{I heard something about this town from the caravaneers... they dig out uranium ore there for power plants, right? Well, it's nice to see that other settlements keep to maintain order by the law. Settle down sheriff, for you I am willing to find more time than usual.}
@@ -248,7 +248,7 @@ As for the dog #
 {458}{}{Before it's too late? What are you talking about?!}
 {459}{}{Hell, you don't understand what you're getting into! You can't stop him, even if you put against him everyone from your lousy vault.}
 
-{460}{}{Have it your way. You *never* will tell *anything* to anybody. (Sheriff pulls out his gun)}
+{460}{}{Have it your way. You *never* will tell *anything* to anybody. [Sheriff pulls out his gun]}
 {461}{}{(Oops, time to mosey along...)}
 
 {462}{}{What are you talking about?}
@@ -280,7 +280,7 @@ As for the dog #
 {487}{}{Like hell! I will go to the station, whether you want it or not.}
 {488}{}{Okay, I'm going back to the city... for now...}
 {489}{}{You're wrong. The Reaper of Souls will continue to rampage throughout the wastes. You don't even know his goals. What will happen if he finds the "pure soul"?}
-{490}{}{I'm sorry, but I *have* to stop you. (The Sheriff pulls out his gun)}
+{490}{}{I'm sorry, but I *have* to stop you. [The Sheriff pulls out his gun]}
 {491}{}{(Oops, time to mosey along...)}
 {492}{}{I don't know, and don't even want to. Now turn around and don't come back.}
 {493}{}{Hold on, Sheriff! Maybe he's trying to create an army of soldiers to seize the whole wasteland? Your city has already suffered enough, it's time to end this!}
@@ -310,7 +310,7 @@ As for the dog #
 {515}{}{You're right, one must pay for everything in the end, the simple truth of life.}
 
 # Women's replica:
-{1112}{}{Ok. Take this one to the cell, and this one we will release. (turns to you) This is my first and last warning, because you're the new person in town. I don't know what pushed you onto a dirty business, but we wont forgive you in the future. I'm sure you'll understand me the first time. (stroking his gun) Now get out.}
+{1112}{}{Ok. Take this one to the cell, and this one we will release. [turns to you] This is my first and last warning, because you're the new person in town. I don't know what pushed you onto a dirty business, but we wont forgive you in the future. I'm sure you'll understand me the first time. [stroking his gun] Now get out.}
 {1128}{}{Merck killed his wife! I saw it with my own eyes!}
 {1173}{}{Enough of this. I'm not a mercenary actually ... [leave]}
 {1184}{}{Evidently. Rest assured, the city will not just take your word for it. People will whisper, make up stories... And now - get from the office and come back only with some evidence!}
