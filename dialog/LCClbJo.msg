@@ -277,7 +277,7 @@
 {560}{GGG}{...additionally plunged in a puddle of rad-wastes.}
 
 {561}{}{Hey, exactly like my mother-in-law!}
-{562}{}{Oh, I wouldn't mind be crossbred with someone...}
+{562}{}{Oh, I wouldn't mind to be crossbred with someone...}
 {563}{}{Shut your mouth, you horny pig! Going to go to my wife again?}
 {564}{}{ }
 
