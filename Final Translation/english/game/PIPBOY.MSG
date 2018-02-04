@@ -81,7 +81,7 @@
 {416}{}{-empty-}
 {417}{}{-empty-}
 {418}{}{Criminal case #4783}
-{419}{}{Carriages advertisement}
+{419}{}{Stagecoach advertisement}
 {420}{}{-empty-}
 
 #
@@ -685,15 +685,15 @@
 {12031}{}{Albeit slowly, our life started to come together."}
 {12032}{}{**END-DISK**}
 
-# robot-carriager memory card
+# robot-stagecoacher memory card
 # GVAR_NEW_RENO_DILIZHAS_ROBOTMODUL (GVAR_RESERVED_VAR13)
 {13000}{}{}
 {13001}{}{}
 {13002}{}{Here gathered important information, deciphered from}
-{13003}{}{DVR of guard robot, escorting carriage}
+{13003}{}{DVR of guard robot, escorting stagecoach}
 {13004}{}{from Salt Lake city to New Reno.}
 {13005}{}{}
-{13006}{}{As it turns out, bikers didn't attack the carriage,}
+{13006}{}{As it turns out, bikers didn't attack the stagecoach,}
 {13007}{}{this was made by members of the crew - the very same}
 {13008}{}{members, who later returned to the city and blamed it all}
 {13009}{}{on biker gang.}
@@ -1227,7 +1227,7 @@
 {19174}{}{it's in your best interest to pray for our success."}
 {19175}{}{**END-DISK**}
 
-# Commercial holodisk of carriages
+# Commercial holodisk of stagecoach
 # GVAR_HOLODISK_DILIZHANS_INFO -- GVAR_HOLODISK_ENCLAVE_WORD
 {20000}{}{}
 {20001}{}{So, you decided to make some money on the sale of beads}
@@ -1244,7 +1244,7 @@
 {20012}{}{colors! Have spare 1000 bucks? That's just enough! (In}
 {20013}{}{addition, we are ready to negotiate, if you're a good man.)}
 {20014}{}{}
-{20015}{}{1. Who are you guys? What the hell is a carriage?}
+{20015}{}{1. Who are you guys? What the hell is a stagecoach?}
 {20016}{}{}
 {20017}{}{We are a team of professionals in logistics and}
 {20018}{}{in beating the shit out of those who wish to do harm to}

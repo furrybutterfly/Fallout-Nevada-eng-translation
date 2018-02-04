@@ -1023,7 +1023,7 @@
 {56601}{}{The sign reads BAR. That should be pretty self-evident.}
 {56700}{}{Shadow}
 {56800}{}{Flag}
-{56801}{}{The flag with the emblem of carriage: 4 wagon wheels on the corners and bull head in the center, wearing cowboy hat and a scarf.}
+{56801}{}{The flag with the emblem of stagecoach: 4 wagon wheels on the corners and bull head in the center, wearing cowboy hat and a scarf.}
 {56900}{}{Shelves}
 {56901}{}{You see some metal storage shelves.}
 {57000}{}{Shelves}
@@ -2855,7 +2855,7 @@
 {194801}{}{This stair is barricaded so that no one can go to the top floor. However, you have no reasons to.}
 {194900}{}{Sign of "Aromas of Marin" ranch}
 {195000}{}{Brahmin water supply}
-{195001}{}{Here must be drawn water for the brahmins in the pen.}
+{195001}{}{Here must be drawn water for the brahmin in the pen.}
 {195100}{}{Fuel barrel}
 {195101}{}{The one who left it there, runs the risk of setting a fire.}
 {195200}{}{Burned boxes}

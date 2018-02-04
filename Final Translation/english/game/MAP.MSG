@@ -954,7 +954,7 @@
 {1545}{}{"Dear John"}
 {1546}{}{Harrelson}
 {1547}{}{Random Encounter}
-{1548}{}{Broken Carriage}
+{1548}{}{Broken stagecoach}
 {1549}{}{Car}
 {1550}{}{Vault 8 Surroundings}
 {1551}{}{New Reno (2)}

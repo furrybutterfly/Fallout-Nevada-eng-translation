@@ -107,7 +107,7 @@
 {207}{}{Brahmin}
 {208}{}{Omakaki}
 {209}{}{Hal Wallis}
-{210}{}{The carriage's administrator}
+{210}{}{The stagecoach's administrator}
 {211}{}{Caravan Merchant}
 {212}{}{Pallet}
 {213}{}{Hooligan}
@@ -599,7 +599,7 @@
 {699}{}{Mrs. Wright}
 {700}{}{Marcus}
 {701}{}{Door}
-{702}{}{Carriage guard}
+{702}{}{stagecoach guard}
 {703}{}{Community member}
 {704}{}{William}
 {705}{}{Justin}

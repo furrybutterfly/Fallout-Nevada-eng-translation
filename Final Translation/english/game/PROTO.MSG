@@ -113,7 +113,7 @@
 {467}{}{This line shows the number of young human children you have killed during the course of your adventures.  You cad.}
 {468}{}{The number of Super Mutants you have slain during the course of your adventures.}
 {469}{}{This line shows the number of male and female ghoul mutants you have killed during the course of your adventures.}
-{470}{}{This line shows the number of Brahmins (mutated cows) you have chopped up during your travels.}
+{470}{}{This line shows the number of Brahmin (mutated cows) you have chopped up during your travels.}
 {471}{}{The number of mutated Radscorpions that you have put to death during your adventure.}
 {472}{}{The number of rats you have killed.  Includes all members of the rat family.}
 {473}{}{This is the number of mutant Ringworms that you have put to death.}
@@ -280,7 +280,7 @@
 {1452}{}{Children}
 {1453}{}{Super Mutants}
 {1454}{}{Ghouls}
-{1455}{}{Brahmins}
+{1455}{}{Brahmin}
 {1456}{}{Radscorpions}
 {1457}{}{Rats}
 {1458}{}{Ringworms}
@@ -302,7 +302,7 @@
 {1471}{}{This line shows the number of young human children you have killed during the course of your adventures.  You cad.}
 {1472}{}{The number of Super Mutants you have slain during the course of your adventures.}
 {1473}{}{This line shows the number of male and female ghoul mutants you have killed during the course of your adventures.}
-{1474}{}{This line shows the number of Brahmins (mutated cows) you have chopped up during your travels.}
+{1474}{}{This line shows the number of Brahmin (mutated cows) you have chopped up during your travels.}
 {1475}{}{The number of mutated Radscorpions that you have put to death during your adventure.}
 {1476}{}{The number of rats you have killed.  Includes all members of the rat family.}
 {1477}{}{This is the number of mutant Ringworms that you have put to death.}

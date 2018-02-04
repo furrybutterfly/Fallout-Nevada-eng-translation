@@ -16,12 +16,12 @@
 {104}{}{}
 {105}{}{Complete the warehouse's special assignment}
 {106}{}{Bring Sam a porn magazine}
-{107}{}{Find the missing robot scout}
+{107}{}{Find the missing scout robot}
 {108}{}{Decipher deputy Sheriff’s disk}
 {109}{}{Learn more about Gerlach's community}
 {110}{}{Destroy Gerlach's community}
 {111}{}{Spy on a "suspicious citizens" couple}
-{112}{}{Collect blood samples of pigrats , coyotes and geckos for doctor Willmouth}
+{112}{}{Collect blood samples of pigrats, coyotes and geckos for doctor Willmouth}
 
 {120}{}{Get up on feet: talk to Graves, Willmouth, take your gear from the warehouse}
 {121}{}{Biker chase: learn more about Jay in Black Rock}
@@ -50,7 +50,7 @@
 {203}{}{Robert and Jessica want to run away from the settlement}
 {204}{}{Find memorial information in Hawthorne}
 {205}{}{Punish the soldiers, that beat the caravan merchant}
-{206}{}{Find survivors from the "Hawk Express" caravan}
+{206}{}{Find survivors from the "Speed Hawk" caravan}
 {207}{}{Copy radio frequencies for the spy or tell about him to the Military}
 {208}{}{Investigate the incident at the post and report to Wesker}
 {209}{}{Regain the farmer's trust}
@@ -213,7 +213,7 @@
 
 {900}{}{Help Dante to complete challenges (needs gun and painkillers)}
 {901}{}{Convince Dante not to join the biker gang}
-{902}{}{Get brahmins to the corral}
+{902}{}{Get brahmin to the corral}
 {903}{}{Cure the child by yourself or bring medical supplies}
 {904}{}{Help to equip caravan from New Reno to Bridgeport}
 {905}{}{Find the missing resident}
@@ -236,7 +236,7 @@
 {1107}{}{Get Bob Neal's personal gun for Wallis}
 {1108}{}{Bob Neal made a counter-offer}
 {1109}{}{Solve the problem with workers at the Hoover Dam}
-{1110}{}{Investigate the attack on the "Hawk Express" caravan}
+{1110}{}{Investigate the attack on the "Speed Hawk" caravan}
 {1111}{}{Help slaves to escape the pen}
 {1112}{}{Turn the Black Caravan over to the police}
 {1113}{}{Help the police to raid the Pound}
@@ -251,7 +251,7 @@
 # Salt Lake
 #---------------------------------------------------------
 
-{1500}{}{Fix the train's on-board computer}
+{1500}{}{Fix the on-board computer of the train}
 {1501}{}{Machinist is needed for train operation}
 {1502}{}{Artesian tower needs water filter}
 {1503}{}{Case of missing dog}
@@ -262,7 +262,7 @@
 {1508}{}{Make a diversion on Nuka-Cola factory}
 {1509}{}{Nuka-Cola: get a deal with "Cotton" club}
 {1510}{}{Nuka-Cola: get a deal with "Silver" restaurant}
-{1511}{}{Nuka-Cola: get a deal with "Hard Rock cafe"}
+{1511}{}{Nuka-Cola: get a deal with "Hard Rock" cafe}
 {1512}{}{Nuka-Cola: get a deal with the Wind of War}
 {1513}{}{Fix automated logical controller for Nuka-Cola factory}
 {1514}{}{Deal with Nuka-Cola merchant}

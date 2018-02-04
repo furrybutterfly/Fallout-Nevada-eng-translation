@@ -332,9 +332,9 @@
 {3352}{}{Group of pests.}
 {3353}{}{Small group of mole-rats.}
 {3354}{}{Small group of radscorpions.}
-{3355}{}{Herd of brahmins.}
+{3355}{}{Herd of brahmin.}
 {3356}{}{A pack of coyotes.}
-{3357}{}{Herd of brahmins, fending off geckos' attack.}
+{3357}{}{Herd of brahmin, fending off geckos' attack.}
 {3358}{}{Giant Egg.}
 
 # Encounter Table 8 -- BLRCK
@@ -342,9 +342,9 @@
 {3401}{}{Group of pests.}
 {3402}{}{Small group of mole-rats.}
 {3403}{}{Small group of radscorpions.}
-{3404}{}{Herd of wild brahmins.}
+{3404}{}{Herd of wild brahmin.}
 {3405}{}{A pack of coyotes.}
-{3406}{}{Herd of brahmins, fending off geckos' attack.}
+{3406}{}{Herd of brahmin, fending off geckos' attack.}
 {3407}{}{Hunter of desert iguanas.}
 
 # Encounter Table 9 -- SGMA_M
@@ -353,7 +353,7 @@
 {3452}{}{Small group of mole-rats.}
 {3453}{}{Small group of pig-rats.}
 {3454}{}{Small group of radscorpions.}
-{3455}{}{Herd of wild brahmins.}
+{3455}{}{Herd of wild brahmin.}
 {3456}{}{A pack of wolves.}
 {3457}{}{Cafe "New Hope".}
 {3458}{}{Crossroads.}
@@ -369,13 +369,13 @@
 {3502}{}{Small group of mole-rats.}
 {3503}{}{Small group of pig-rats.}
 {3504}{}{Small group of radscorpions.}
-{3505}{}{Herd of wild brahmins.}
+{3505}{}{Herd of wild brahmin.}
 {3506}{}{A pack of wolves.}
 {3507}{}{Hunters' squad.}
 {3508}{}{Hunters' squad fighting with radscorpions.}
 {3509}{}{Hunters' squad fighting with mole-rats.}
 {3510}{}{Hunters' squad repulsing attack of wolves' A pack.}
-{3511}{}{Herd of brahmins, fending off wolves.}
+{3511}{}{Herd of brahmin, fending off wolves.}
 {3512}{}{Legendary radscorpion.}
 {3513}{}{Lost Office.}
 {3514}{}{Crossroads.}
@@ -391,7 +391,7 @@
 
 # Encounter Table 11 -- SGMA_T
 {3550}{}{Small group of radscorpions on the road.}
-{3551}{}{Herd of brahmins crossing the road.}
+{3551}{}{Herd of brahmin crossing the road.}
 {3552}{}{A pack of wild dogs running down the road.}
 {3553}{}{Group of fishermen coming back from fishing.}
 {3554}{}{Group of immigrants.}
@@ -416,7 +416,7 @@
 # Encounter Table 12 -- SALT_O
 {3600}{}{Group of pests.}
 {3601}{}{A pack of wild dogs.}
-{3602}{}{Herd of wild brahmins.}
+{3602}{}{Herd of wild brahmin.}
 {3603}{}{A group of acid geckos.}
 {3604}{}{Hunters' squad.}
 {3605}{}{Group of hunters fighting against pests.}
@@ -430,7 +430,7 @@
 # Encounter Table 13 -- SALT_T
 {3650}{}{Small group of pests stuck on the road.}
 {3651}{}{Small group of radscorpions on the road.}
-{3652}{}{Herd of brahmins wandering along the road.}
+{3652}{}{Herd of brahmin wandering along the road.}
 {3653}{}{A pack of wild dogs running down the road.}
 {3654}{}{Group of hunters heading back to the city.}
 {3655}{}{Group of bandits hiding in ambush.}
@@ -462,7 +462,7 @@
 {3700}{}{Small group of pests stuck on the road.}
 {3701}{}{Small group of geckos suddenly appeared on the road!}
 {3702}{}{Small group of radscorpions on the road.}
-{3703}{}{Herd of brahmins wandering along the road.}
+{3703}{}{Herd of brahmin wandering along the road.}
 {3704}{}{A pack of wild dogs running down the road.}
 {3705}{}{Cheyennes returning back from the hunt.}
 {3706}{}{Group of immigrants.}
@@ -487,7 +487,7 @@
 {3754}{}{Small group of mole-rats.}
 {3755}{}{Small group of pig-rats.}
 {3756}{}{Small group of radscorpions.}
-{3757}{}{Herd of brahmins.}
+{3757}{}{Herd of brahmin.}
 {3758}{}{Wild dogs.}
 {3759}{}{Cheyennes returning back from the hunt.}
 {3760}{}{Group of hunters.}
@@ -517,7 +517,7 @@
 {3803}{}{Group of pests.}
 {3804}{}{Small group of mole-rats.}
 {3805}{}{Small group of radscorpions.}
-{3806}{}{Herd of brahmins.}
+{3806}{}{Herd of brahmin.}
 {3807}{}{A pack of wolves.}
 {3808}{}{Cheyennes returning back from the hunt.}
 {3809}{}{Group of hunters.}
@@ -539,7 +539,7 @@
 {3850}{}{A pack of wild dogs running down the road.}
 {3851}{}{Small group of radscorpions on the road.}
 {3852}{}{Small group of pests stuck on the road.}
-{3853}{}{Herd of brahmins wandering along the road.}
+{3853}{}{Herd of brahmin wandering along the road.}
 {3854}{}{Group of slavers with their slaves.}
 {3855}{}{Group of slavers attempting to enslave a few people.}
 {3856}{}{Gang of slavers and few dogs.}
@@ -598,7 +598,7 @@
 {4002}{}{Small group of mole-rats.}
 {4003}{}{Small group of pig-rats.}
 {4004}{}{Small group of radscorpions.}
-{4005}{}{Herd of brahmins.}
+{4005}{}{Herd of brahmin.}
 {4006}{}{A pack of wild dogs.}
 {4007}{}{Group of hunters.}
 {4008}{}{Gang of raiders.}
@@ -616,7 +616,7 @@
 # Encounter Table 21 -- VGSLT_T
 {4050}{}{Small group of pests stuck on the road.}
 {4051}{}{Small group of radscorpions on the road.}
-{4052}{}{Herd of brahmins wandering along the road.}
+{4052}{}{Herd of brahmin wandering along the road.}
 {4053}{}{A pack of wild dogs running down the road.}
 {4054}{}{Group of hunters returning back to town.}
 {4055}{}{Group of bandits hiding in ambush.}
@@ -645,7 +645,7 @@
 {4103}{}{Small group of mole-rats.}
 {4104}{}{Small group of pig-rats.}
 {4105}{}{Small group of radscorpions.}
-{4106}{}{Herd of brahmins.}
+{4106}{}{Herd of brahmin.}
 {4107}{}{Wild angry brahmin.}
 {4108}{}{Group of hunters.}
 {4109}{}{Gang of raiders.}
@@ -693,7 +693,7 @@
 {4205}{}{Small group of mole-rats.}
 {4206}{}{Small group of pig-rats.}
 {4207}{}{Small group of radscorpions.}
-{4208}{}{Herd of brahmins.}
+{4208}{}{Herd of brahmin.}
 {4209}{}{A pack of wolves.}
 {4210}{}{Coyote hunters, hunting their prey.}
 {4211}{}{Leader of the Coyote tribe.}
@@ -717,7 +717,7 @@
 {4256}{}{Group of golden geckos suddenly appeared on the road!}
 {4257}{}{Swarm of mantises migrating along the road.}
 {4258}{}{Small group of radscorpions on the road.}
-{4259}{}{Herd of brahmins wandering along the road.}
+{4259}{}{Herd of brahmin wandering along the road.}
 {4260}{}{A pack of wild dogs running down the road.}
 {4261}{}{Group of slavers with their slaves.}
 {4262}{}{Group of slavers attempting to enslave a few people.}
@@ -754,7 +754,7 @@
 {4305}{}{Group of pests.}
 {4306}{}{Small group of mole-rats.}
 {4307}{}{Small group of radscorpions.}
-{4308}{}{Herd of brahmins.}
+{4308}{}{Herd of brahmin.}
 {4309}{}{A pack of wild dogs.}
 {4310}{}{Group of slavers with their slaves.}
 {4311}{}{Group of slavers attempting to enslave a few people.}
@@ -791,7 +791,7 @@
 {4354}{}{Group of pests.}
 {4355}{}{Small group of mole-rats.}
 {4356}{}{Small group of radscorpions.}
-{4357}{}{Herd of brahmins.}
+{4357}{}{Herd of brahmin.}
 {4358}{}{A pack of wolves.}
 {4359}{}{Group of hunters.}
 {4360}{}{Super 8.}
@@ -815,7 +815,7 @@
 # Encounter Table 29 -- VGSX_T
 {4450}{}{Small group of pests stuck on the road.}
 {4451}{}{Small group of radscorpions on the road.}
-{4452}{}{Herd of brahmins wandering along the road.}
+{4452}{}{Herd of brahmin wandering along the road.}
 {4453}{}{Caravan wandering down the road.}
 {4454}{}{Locals who stepped on the road of crime.}
 {4455}{}{One of the Bloom Brothers.}
@@ -835,7 +835,7 @@
 {4501}{}{Swarm of mantises migrating along the road.}
 {4502}{}{Group of silver geckos suddenly appeared on the road.}
 {4503}{}{Small group of radscorpions on the road.}
-{4504}{}{Herd of brahmins wandering along the road.}
+{4504}{}{Herd of brahmin wandering along the road.}
 {4505}{}{A pack of wild dogs running down the road.}
 {4506}{}{Group of slavers with their slaves.}
 {4507}{}{Group of slavers attempting to enslave a few people.}
@@ -876,7 +876,7 @@
 {4555}{}{Small group of mole-rats.}
 {4556}{}{Small group of pig-rats.}
 {4557}{}{Small group of radscorpions.}
-{4558}{}{Herd of brahmins.}
+{4558}{}{Herd of brahmin.}
 {4559}{}{A pack of coyotes.}
 {4560}{}{A pack of wolves.}
 {4561}{}{Group of slavers with their slaves.}
@@ -936,7 +936,7 @@
 {4750}{}{A pack of Coyotes spying for the road.}
 {4751}{}{Small group of radscorpions on the road.}
 {4752}{}{Small group of pests stuck on the road.}
-{4753}{}{Herd of brahmins wandering along the road.}
+{4753}{}{Herd of brahmin wandering along the road.}
 {4754}{}{Locals who stepped on the road of crime.}
 {4755}{}{Group of slavers with their slaves.}
 {4756}{}{Group of slavers attempting to enslave a few people.}
@@ -964,7 +964,7 @@
 {4805}{}{Small group of mole-rats.}
 {4806}{}{Small group of pig-rats.}
 {4807}{}{Small group of radscorpions.}
-{4808}{}{Herd of brahmins.}
+{4808}{}{Herd of brahmin.}
 {4809}{}{A pack of wolves.}
 {4810}{}{Cafe "New Hope".}
 {4811}{}{Lost Office.}
@@ -981,9 +981,9 @@
 {4851}{}{Group of pests.}
 {4852}{}{Small group of mole-rats.}
 {4853}{}{Small group of radscorpions.}
-{4854}{}{Herd of wild brahmins.}
+{4854}{}{Herd of wild brahmin.}
 {4855}{}{A pack of coyotes.}
-{4856}{}{Herd of brahmins attacked by geckos.}
+{4856}{}{Herd of brahmin attacked by geckos.}
 {4857}{}{House on Wheels.}
 {4858}{}{Giant Egg.}
 {4859}{}{"Dear John".}

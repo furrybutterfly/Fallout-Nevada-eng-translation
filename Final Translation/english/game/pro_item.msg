@@ -388,7 +388,7 @@
 {19401}{}{A rare prehistoric document. Literally *each* new reading will give you a rush of experience. Though, very little.}
 {19500}{}{Sedative}
 {19501}{}{This Janet's syringe is filled with an excellent "sedative".}
-{19600}{}{Carriages advertising}
+{19600}{}{Stagecoach advertising}
 {19601}{}{This tape contains advertising information about the Nevada Express. You can copy the data to your Pip-Boy.}
 {19700}{}{Box}
 {19800}{}{Box}
@@ -644,7 +644,7 @@
 {32700}{}{Drug-dealer disk}
 {32701}{}{This disk contains some radio frequencies. You can't figure out anything more without working radio.}
 {32800}{}{DVR records}
-{32801}{}{Robot guard's holodisk with records of accompanying a carriage from Salt Lake City to New Reno. Perhaps, some information has been preserved here, however, in an encrypted form. Your Pip-Boy could read it.}
+{32801}{}{Robot guard's holodisk with records of accompanying a stagecoach from Salt Lake City to New Reno. Perhaps, some information has been preserved here, however, in an encrypted form. Your Pip-Boy could read it.}
 {32900}{}{Stranglehold}
 {32901}{}{Ordinary silver guitar string, tunable to a note re. However, it has long been not used for its intended purpose.}
 {33000}{}{Small chest}
@@ -1055,7 +1055,7 @@
 {55200}{}{License}
 {55201}{}{This is your personal sales license, issued by the manufacturer of the famous tonic beverage "Nuka-Cola".}
 {55300}{}{Travel ticket}
-{55301}{}{One way ticket for carriage.}
+{55301}{}{One way ticket for stagecoach.}
 {55400}{}{Pieces}
 {55401}{}{Metal plates the size of an ordinary coin. Theoretically it should be absolutely useless.}
 {55500}{}{Indispensable coin}

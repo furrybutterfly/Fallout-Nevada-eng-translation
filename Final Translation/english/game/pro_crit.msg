@@ -291,7 +291,7 @@
 {27400}{}{Bodyguard}
 {27500}{}{Mother Deathclaw}
 {27600}{}{Kings member}
-{27700}{}{Carriager}
+{27700}{}{Stagecoacher}
 {27800}{}{Mormon}
 {27900}{}{Mormon}
 {28000}{}{Mysterious Stranger}
