@@ -364,11 +364,11 @@
 
 {560}{}{About the job.}
 {561}{}{What is happening, damn it?}
-{562}{}{They rumor is that you attacked the carriage and robbed it. It happened near the Black Rock.}
+{562}{}{They rumor is that you attacked the stagecoach and robbed it. It happened near the Black Rock.}
 {563}{}{Erm, I'm still looking into it.}
 {564}{}{Then don't waste time.}
 {565}{}{Fine.}
-{566}{}{Us? The carriage?! Bullshit! Who told you that?}
+{566}{}{Us? The stagecoach?! Bullshit! Who told you that?}
 {567}{}{The express workers told me that themselves.}
 
 {568}{}{Hmm. I don't know, why they would think that. We have to look deeper, make an investigation. Will you do this for us?}

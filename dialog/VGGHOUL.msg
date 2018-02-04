@@ -1,0 +1,1 @@
+{100}{}{Before you are the ugliest kind of slums you ever seen. Even plague rats would disdain to live here.}
