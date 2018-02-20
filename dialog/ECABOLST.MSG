@@ -1,0 +1,2 @@
+{100}{}{You see mercenary.}
+{101}{}{It seems, this man was searching for you to kill you.}

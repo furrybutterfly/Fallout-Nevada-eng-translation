@@ -1,0 +1,1 @@
+{100}{}{On the face of it these are ordinary ruins. Anyone could be hiding in them.}

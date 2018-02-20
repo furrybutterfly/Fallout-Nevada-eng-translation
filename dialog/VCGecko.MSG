@@ -1,0 +1,2 @@
+{100}{}{You see the gecko-toki.}
+{101}{}{You see toki, running like crazy.}

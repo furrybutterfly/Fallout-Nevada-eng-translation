@@ -1,0 +1,1 @@
+{100}{}{The collapse does not allow a pass down the hall. Surely it must be another entrance to the underground room.}
